@@ -2,11 +2,11 @@
   "id": "0870_SoundBlasterOld",
   "presetId": "0870",
   "bank": "SoundBlasterOld",
-  "category": "Synth Effects",
-  "instrument": "FX 7 (echoes)",
+  "category": "Synth Lead",
+  "instrument": "Lead 8 (bass and lead)",
   "serie": 0,
-  "channel": 3,
-  "number": 102,
+  "channel": 4,
+  "number": 88,
   "zones": [
     {
       "midi": 87,

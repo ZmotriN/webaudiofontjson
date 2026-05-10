@@ -2,11 +2,11 @@
   "id": "0401_FluidR3",
   "presetId": "0401",
   "bank": "FluidR3",
-  "category": "Organ",
-  "instrument": "Percussive Organ",
+  "category": "Strings",
+  "instrument": "Violin",
   "serie": 1,
-  "channel": 1,
-  "number": 17,
+  "channel": 3,
+  "number": 41,
   "zones": [
     {
       "midi": 40,

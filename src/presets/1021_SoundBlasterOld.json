@@ -2,11 +2,11 @@
   "id": "1021_SoundBlasterOld",
   "presetId": "1021",
   "bank": "SoundBlasterOld",
-  "category": "Sound Effects",
-  "instrument": "Helicopter",
+  "category": "Synth Effects",
+  "instrument": "FX 7 (echoes)",
   "serie": 1,
-  "channel": 1,
-  "number": 125,
+  "channel": 3,
+  "number": 103,
   "zones": [
     {
       "midi": 102,

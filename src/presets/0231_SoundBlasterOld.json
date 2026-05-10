@@ -2,11 +2,11 @@
   "id": "0231_SoundBlasterOld",
   "presetId": "0231",
   "bank": "SoundBlasterOld",
-  "category": "Synth Effects",
-  "instrument": "FX 8 (sci-fi)",
+  "category": "Organ",
+  "instrument": "Bandoneon",
   "serie": 1,
-  "channel": 3,
-  "number": 103,
+  "channel": 1,
+  "number": 24,
   "zones": [
     {
       "midi": 23,

@@ -2,11 +2,11 @@
   "id": "0601_GeneralUserGS",
   "presetId": "0601",
   "bank": "GeneralUserGS",
-  "category": "Synth Pad",
-  "instrument": "Pad 2 (warm)",
+  "category": "Brass",
+  "instrument": "French Horn",
   "serie": 1,
   "channel": 3,
-  "number": 89,
+  "number": 61,
   "zones": [
     {
       "midi": 60,

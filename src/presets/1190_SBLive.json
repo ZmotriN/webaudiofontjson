@@ -2,11 +2,11 @@
   "id": "1190_SBLive",
   "presetId": "1190",
   "bank": "SBLive",
-  "category": "Bass",
-  "instrument": "Synth Bass 1",
+  "category": "Percussive",
+  "instrument": "Reverse Cymbal",
   "serie": 0,
   "channel": 2,
-  "number": 38,
+  "number": 120,
   "zones": [
     {
       "midi": 119,

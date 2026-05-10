@@ -2,11 +2,11 @@
   "id": "0961_GeneralUserGS",
   "presetId": "0961",
   "bank": "GeneralUserGS",
-  "category": "Reed",
-  "instrument": "Alto Sax",
+  "category": "Synth Effects",
+  "instrument": "FX 1 (rain)",
   "serie": 1,
-  "channel": 1,
-  "number": 65,
+  "channel": 3,
+  "number": 97,
   "zones": [
     {
       "midi": 96,

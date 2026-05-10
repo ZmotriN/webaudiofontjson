@@ -2,11 +2,11 @@
   "id": "0761_FluidR3",
   "presetId": "0761",
   "bank": "FluidR3",
-  "category": "Sound Effects",
-  "instrument": "Breath Noise",
+  "category": "Pipe",
+  "instrument": "Blown bottle",
   "serie": 1,
   "channel": 1,
-  "number": 121,
+  "number": 77,
   "zones": [
     {
       "midi": 76,

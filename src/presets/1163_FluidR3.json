@@ -2,11 +2,11 @@
   "id": "1163_FluidR3",
   "presetId": "1163",
   "bank": "FluidR3",
-  "category": "Chromatic Percussion",
-  "instrument": "Vibraphone",
+  "category": "Percussive",
+  "instrument": "Taiko Drum",
   "serie": 3,
-  "channel": 1,
-  "number": 11,
+  "channel": 2,
+  "number": 117,
   "zones": [
     {
       "midi": 116,

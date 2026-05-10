@@ -2,11 +2,11 @@
   "id": "1151_GeneralUserGS",
   "presetId": "1151",
   "bank": "GeneralUserGS",
-  "category": "Sound Effects",
-  "instrument": "Gunshot",
+  "category": "Percussive",
+  "instrument": "Woodblock",
   "serie": 1,
-  "channel": 1,
-  "number": 127,
+  "channel": 2,
+  "number": 116,
   "zones": [
     {
       "midi": 115,

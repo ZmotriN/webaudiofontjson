@@ -2,11 +2,11 @@
   "id": "0046_GeneralUserGS",
   "presetId": "0046",
   "bank": "GeneralUserGS",
-  "category": "Strings",
-  "instrument": "Orchestral Harp",
+  "category": "Piano",
+  "instrument": "Electric Piano 1",
   "serie": 6,
-  "channel": 3,
-  "number": 46,
+  "channel": 1,
+  "number": 5,
   "zones": [
     {
       "midi": 4,

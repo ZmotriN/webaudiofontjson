@@ -2,11 +2,11 @@
   "id": "0580_JCLive",
   "presetId": "0580",
   "bank": "JCLive",
-  "category": "Reed",
-  "instrument": "Oboe",
+  "category": "Brass",
+  "instrument": "Tuba",
   "serie": 0,
-  "channel": 1,
-  "number": 68,
+  "channel": 3,
+  "number": 59,
   "zones": [
     {
       "midi": 58,

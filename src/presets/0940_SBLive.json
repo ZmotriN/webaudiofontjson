@@ -2,11 +2,11 @@
   "id": "0940_SBLive",
   "presetId": "0940",
   "bank": "SBLive",
-  "category": "Strings",
-  "instrument": "Tremolo Strings",
+  "category": "Synth Pad",
+  "instrument": "Pad 7 (halo)",
   "serie": 0,
   "channel": 3,
-  "number": 44,
+  "number": 95,
   "zones": [
     {
       "midi": 94,

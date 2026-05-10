@@ -2,11 +2,11 @@
   "id": "0490_Chaos",
   "presetId": "0490",
   "bank": "Chaos",
-  "category": "Ethnic",
-  "instrument": "Shamisen",
+  "category": "Ensemble",
+  "instrument": "String Ensemble 2",
   "serie": 0,
-  "channel": 4,
-  "number": 106,
+  "channel": 3,
+  "number": 50,
   "zones": [
     {
       "midi": 49,

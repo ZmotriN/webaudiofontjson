@@ -2,11 +2,11 @@
   "id": "0612_GeneralUserGS",
   "presetId": "0612",
   "bank": "GeneralUserGS",
-  "category": "Synth Effects",
-  "instrument": "FX 5 (brightness)",
+  "category": "Brass",
+  "instrument": "Brass Section",
   "serie": 2,
   "channel": 3,
-  "number": 100,
+  "number": 62,
   "zones": [
     {
       "midi": 61,

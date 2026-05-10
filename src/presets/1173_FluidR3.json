@@ -2,11 +2,11 @@
   "id": "1173_FluidR3",
   "presetId": "1173",
   "bank": "FluidR3",
-  "category": "Organ",
-  "instrument": "Accordion",
+  "category": "Percussive",
+  "instrument": "Melodic Tom",
   "serie": 3,
-  "channel": 1,
-  "number": 21,
+  "channel": 2,
+  "number": 118,
   "zones": [
     {
       "midi": 117,

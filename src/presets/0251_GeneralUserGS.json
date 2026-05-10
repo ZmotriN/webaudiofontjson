@@ -2,11 +2,11 @@
   "id": "0251_GeneralUserGS",
   "presetId": "0251",
   "bank": "GeneralUserGS",
-  "category": "Sound Effects",
-  "instrument": "Bird Tweet",
+  "category": "Guitar",
+  "instrument": "Acoustic Guitar (steel)",
   "serie": 1,
-  "channel": 1,
-  "number": 123,
+  "channel": 4,
+  "number": 26,
   "zones": [
     {
       "midi": 25,

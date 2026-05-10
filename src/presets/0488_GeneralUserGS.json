@@ -2,11 +2,11 @@
   "id": "0488_GeneralUserGS",
   "presetId": "0488",
   "bank": "GeneralUserGS",
-  "category": "Ethnic",
-  "instrument": "Sitar",
+  "category": "Ensemble",
+  "instrument": "String Ensemble 1",
   "serie": 8,
-  "channel": 4,
-  "number": 104,
+  "channel": 3,
+  "number": 49,
   "zones": [
     {
       "midi": 48,

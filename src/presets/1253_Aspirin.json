@@ -2,11 +2,11 @@
   "id": "1253_Aspirin",
   "presetId": "1253",
   "bank": "Aspirin",
-  "category": "Synth Effects",
-  "instrument": "FX 6 (goblins)",
+  "category": "Sound Effects",
+  "instrument": "Helicopter",
   "serie": 3,
-  "channel": 3,
-  "number": 101,
+  "channel": 1,
+  "number": 126,
   "zones": [
     {
       "midi": 125,

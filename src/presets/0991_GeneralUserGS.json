@@ -2,11 +2,11 @@
   "id": "0991_GeneralUserGS",
   "presetId": "0991",
   "bank": "GeneralUserGS",
-  "category": "Synth Pad",
-  "instrument": "Pad 8 (sweep)",
+  "category": "Synth Effects",
+  "instrument": "FX 4 (atmosphere)",
   "serie": 1,
   "channel": 3,
-  "number": 95,
+  "number": 100,
   "zones": [
     {
       "midi": 99,

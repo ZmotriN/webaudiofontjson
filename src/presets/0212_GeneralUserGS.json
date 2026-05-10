@@ -2,11 +2,11 @@
   "id": "0212_GeneralUserGS",
   "presetId": "0212",
   "bank": "GeneralUserGS",
-  "category": "Synth Lead",
-  "instrument": "Lead 5 (charang)",
+  "category": "Organ",
+  "instrument": "Accordion",
   "serie": 2,
-  "channel": 4,
-  "number": 84,
+  "channel": 1,
+  "number": 22,
   "zones": [
     {
       "midi": 21,

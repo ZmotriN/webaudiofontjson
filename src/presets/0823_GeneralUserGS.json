@@ -2,11 +2,11 @@
   "id": "0823_GeneralUserGS",
   "presetId": "0823",
   "bank": "GeneralUserGS",
-  "category": "Ensemble",
-  "instrument": "Orchestra Hit",
+  "category": "Synth Lead",
+  "instrument": "Lead 3 (calliope)",
   "serie": 3,
-  "channel": 3,
-  "number": 55,
+  "channel": 4,
+  "number": 83,
   "zones": [
     {
       "midi": 82,

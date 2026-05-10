@@ -2,11 +2,11 @@
   "id": "0100_JCLive",
   "presetId": "0100",
   "bank": "JCLive",
-  "category": "Synth Effects",
-  "instrument": "FX 5 (brightness)",
+  "category": "Chromatic Percussion",
+  "instrument": "Music Box",
   "serie": 0,
-  "channel": 3,
-  "number": 100,
+  "channel": 1,
+  "number": 11,
   "zones": [
     {
       "midi": 10,

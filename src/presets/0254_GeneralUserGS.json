@@ -2,11 +2,11 @@
   "id": "0254_GeneralUserGS",
   "presetId": "0254",
   "bank": "GeneralUserGS",
-  "category": "Sound Effects",
-  "instrument": "Applause",
+  "category": "Guitar",
+  "instrument": "Acoustic Guitar (steel)",
   "serie": 4,
-  "channel": 1,
-  "number": 126,
+  "channel": 4,
+  "number": 26,
   "zones": [
     {
       "midi": 25,

@@ -2,11 +2,11 @@
   "id": "0485_GeneralUserGS",
   "presetId": "0485",
   "bank": "GeneralUserGS",
-  "category": "Synth Effects",
-  "instrument": "FX 6 (goblins)",
+  "category": "Ensemble",
+  "instrument": "String Ensemble 1",
   "serie": 5,
   "channel": 3,
-  "number": 101,
+  "number": 49,
   "zones": [
     {
       "midi": 48,

@@ -2,11 +2,11 @@
   "id": "0791_GeneralUserGS",
   "presetId": "0791",
   "bank": "GeneralUserGS",
-  "category": "Organ",
-  "instrument": "Bandoneon",
+  "category": "Pipe",
+  "instrument": "Ocarina",
   "serie": 1,
   "channel": 1,
-  "number": 23,
+  "number": 80,
   "zones": [
     {
       "midi": 79,

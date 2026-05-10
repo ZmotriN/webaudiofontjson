@@ -2,11 +2,11 @@
   "id": "0842_FluidR3",
   "presetId": "0842",
   "bank": "FluidR3",
-  "category": "Pipe",
-  "instrument": "Recorder",
+  "category": "Synth Lead",
+  "instrument": "Lead 5 (charang)",
   "serie": 2,
-  "channel": 1,
-  "number": 74,
+  "channel": 4,
+  "number": 85,
   "zones": [
     {
       "midi": 84,

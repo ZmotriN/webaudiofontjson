@@ -2,11 +2,11 @@
   "id": "0483_GeneralUserGS",
   "presetId": "0483",
   "bank": "GeneralUserGS",
-  "category": "Synth Effects",
-  "instrument": "FX 4 (atmosphere)",
+  "category": "Ensemble",
+  "instrument": "String Ensemble 1",
   "serie": 3,
   "channel": 3,
-  "number": 99,
+  "number": 49,
   "zones": [
     {
       "midi": 48,

@@ -2,11 +2,11 @@
   "id": "1080_SoundBlasterOld",
   "presetId": "1080",
   "bank": "SoundBlasterOld",
-  "category": "Brass",
-  "instrument": "Trumpet",
+  "category": "Ethnic",
+  "instrument": "Kalimba",
   "serie": 0,
-  "channel": 3,
-  "number": 56,
+  "channel": 4,
+  "number": 109,
   "zones": [
     {
       "midi": 108,

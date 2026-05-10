@@ -2,11 +2,11 @@
   "id": "1160_FluidR3",
   "presetId": "1160",
   "bank": "FluidR3",
-  "category": "Chromatic Percussion",
-  "instrument": "Celesta",
+  "category": "Percussive",
+  "instrument": "Taiko Drum",
   "serie": 0,
-  "channel": 1,
-  "number": 8,
+  "channel": 2,
+  "number": 117,
   "zones": [
     {
       "midi": 116,

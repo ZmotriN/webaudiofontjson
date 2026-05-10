@@ -2,11 +2,11 @@
   "id": "0880_SoundBlasterOld",
   "presetId": "0880",
   "bank": "SoundBlasterOld",
-  "category": "Percussive",
-  "instrument": "Tinkle Bell",
+  "category": "Synth Pad",
+  "instrument": "Pad 1 (new age)",
   "serie": 0,
-  "channel": 2,
-  "number": 112,
+  "channel": 3,
+  "number": 89,
   "zones": [
     {
       "midi": 88,

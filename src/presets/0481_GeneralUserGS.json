@@ -2,11 +2,11 @@
   "id": "0481_GeneralUserGS",
   "presetId": "0481",
   "bank": "GeneralUserGS",
-  "category": "Synth Effects",
-  "instrument": "FX 2 (soundtrack)",
+  "category": "Ensemble",
+  "instrument": "String Ensemble 1",
   "serie": 1,
   "channel": 3,
-  "number": 97,
+  "number": 49,
   "zones": [
     {
       "midi": 48,

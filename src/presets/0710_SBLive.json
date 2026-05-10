@@ -3,10 +3,10 @@
   "presetId": "0710",
   "bank": "SBLive",
   "category": "Reed",
-  "instrument": "Bassoon",
+  "instrument": "Clarinet",
   "serie": 0,
   "channel": 1,
-  "number": 70,
+  "number": 72,
   "zones": [
     {
       "midi": 71,

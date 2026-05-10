@@ -2,11 +2,11 @@
   "id": "0772_GeneralUserGS",
   "presetId": "0772",
   "bank": "GeneralUserGS",
-  "category": "Piano",
-  "instrument": "Electric Piano 1",
+  "category": "Pipe",
+  "instrument": "Shakuhachi",
   "serie": 2,
   "channel": 1,
-  "number": 4,
+  "number": 78,
   "zones": [
     {
       "midi": 77,

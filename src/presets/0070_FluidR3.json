@@ -2,11 +2,11 @@
   "id": "0070_FluidR3",
   "presetId": "0070",
   "bank": "FluidR3",
-  "category": "Reed",
-  "instrument": "Bassoon",
+  "category": "Piano",
+  "instrument": "Clavinet",
   "serie": 0,
   "channel": 1,
-  "number": 70,
+  "number": 8,
   "zones": [
     {
       "midi": 7,

@@ -2,11 +2,11 @@
   "id": "0740_SBLive",
   "presetId": "0740",
   "bank": "SBLive",
-  "category": "Synth Effects",
-  "instrument": "FX 5 (brightness)",
+  "category": "Pipe",
+  "instrument": "Recorder",
   "serie": 0,
-  "channel": 3,
-  "number": 100,
+  "channel": 1,
+  "number": 75,
   "zones": [
     {
       "midi": 74,

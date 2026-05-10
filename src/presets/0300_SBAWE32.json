@@ -2,11 +2,11 @@
   "id": "0300_SBAWE32",
   "presetId": "0300",
   "bank": "SBAWE32",
-  "category": "Strings",
-  "instrument": "Tremolo Strings",
+  "category": "Guitar",
+  "instrument": "Distortion Guitar",
   "serie": 0,
-  "channel": 3,
-  "number": 44,
+  "channel": 4,
+  "number": 31,
   "zones": [
     {
       "midi": 30,

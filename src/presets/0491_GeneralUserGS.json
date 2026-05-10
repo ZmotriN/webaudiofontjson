@@ -2,11 +2,11 @@
   "id": "0491_GeneralUserGS",
   "presetId": "0491",
   "bank": "GeneralUserGS",
-  "category": "Ethnic",
-  "instrument": "Koto",
+  "category": "Ensemble",
+  "instrument": "String Ensemble 2",
   "serie": 1,
-  "channel": 4,
-  "number": 107,
+  "channel": 3,
+  "number": 50,
   "zones": [
     {
       "midi": 49,

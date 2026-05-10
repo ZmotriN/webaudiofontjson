@@ -3,10 +3,10 @@
   "presetId": "0430",
   "bank": "JCLive",
   "category": "Strings",
-  "instrument": "Orchestral Harp",
+  "instrument": "Contrabass",
   "serie": 0,
   "channel": 3,
-  "number": 46,
+  "number": 44,
   "zones": [
     {
       "midi": 43,

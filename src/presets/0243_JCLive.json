@@ -2,11 +2,11 @@
   "id": "0243_JCLive",
   "presetId": "0243",
   "bank": "JCLive",
-  "category": "Percussive",
-  "instrument": "Woodblock",
+  "category": "Guitar",
+  "instrument": "Acoustic Guitar (nylon)",
   "serie": 3,
-  "channel": 2,
-  "number": 115,
+  "channel": 4,
+  "number": 25,
   "zones": [
     {
       "midi": 24,

@@ -2,11 +2,11 @@
   "id": "0191_GeneralUserGS",
   "presetId": "0191",
   "bank": "GeneralUserGS",
-  "category": "Brass",
-  "instrument": "Synth Brass 2",
+  "category": "Organ",
+  "instrument": "Church Organ",
   "serie": 1,
-  "channel": 3,
-  "number": 63,
+  "channel": 1,
+  "number": 20,
   "zones": [
     {
       "midi": 19,

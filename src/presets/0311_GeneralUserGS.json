@@ -2,11 +2,11 @@
   "id": "0311_GeneralUserGS",
   "presetId": "0311",
   "bank": "GeneralUserGS",
-  "category": "Ensemble",
-  "instrument": "Orchestra Hit",
+  "category": "Guitar",
+  "instrument": "Guitar Harmonics",
   "serie": 1,
-  "channel": 3,
-  "number": 55,
+  "channel": 4,
+  "number": 32,
   "zones": [
     {
       "midi": 31,

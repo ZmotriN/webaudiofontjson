@@ -2,11 +2,11 @@
   "id": "1231_Aspirin",
   "presetId": "1231",
   "bank": "Aspirin",
-  "category": "Pipe",
-  "instrument": "Ocarina",
+  "category": "Sound Effects",
+  "instrument": "Bird Tweet",
   "serie": 1,
   "channel": 1,
-  "number": 79,
+  "number": 124,
   "zones": [
     {
       "midi": 123,

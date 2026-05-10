@@ -2,11 +2,11 @@
   "id": "0885_GeneralUserGS",
   "presetId": "0885",
   "bank": "GeneralUserGS",
-  "category": "Percussive",
-  "instrument": "Melodic Tom",
+  "category": "Synth Pad",
+  "instrument": "Pad 1 (new age)",
   "serie": 5,
-  "channel": 2,
-  "number": 117,
+  "channel": 3,
+  "number": 89,
   "zones": [
     {
       "midi": 88,

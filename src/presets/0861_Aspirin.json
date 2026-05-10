@@ -2,11 +2,11 @@
   "id": "0861_Aspirin",
   "presetId": "0861",
   "bank": "Aspirin",
-  "category": "Synth Pad",
-  "instrument": "Pad 6 (metallic)",
+  "category": "Synth Lead",
+  "instrument": "Lead 7 (fifths)",
   "serie": 1,
-  "channel": 3,
-  "number": 93,
+  "channel": 4,
+  "number": 87,
   "zones": [
     {
       "midi": 86,

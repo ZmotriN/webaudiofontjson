@@ -2,11 +2,11 @@
   "id": "0990_Aspirin",
   "presetId": "0990",
   "bank": "Aspirin",
-  "category": "Synth Pad",
-  "instrument": "Pad 7 (halo)",
+  "category": "Synth Effects",
+  "instrument": "FX 4 (atmosphere)",
   "serie": 0,
   "channel": 3,
-  "number": 94,
+  "number": 100,
   "zones": [
     {
       "midi": 99,

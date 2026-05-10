@@ -2,11 +2,11 @@
   "id": "1010_SoundBlasterOld",
   "presetId": "1010",
   "bank": "SoundBlasterOld",
-  "category": "Percussive",
-  "instrument": "Steel Drums",
+  "category": "Synth Effects",
+  "instrument": "FX 6 (goblins)",
   "serie": 0,
-  "channel": 2,
-  "number": 114,
+  "channel": 3,
+  "number": 102,
   "zones": [
     {
       "midi": 101,

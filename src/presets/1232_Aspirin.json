@@ -2,11 +2,11 @@
   "id": "1232_Aspirin",
   "presetId": "1232",
   "bank": "Aspirin",
-  "category": "Synth Lead",
-  "instrument": "Lead 1 (square)",
+  "category": "Sound Effects",
+  "instrument": "Bird Tweet",
   "serie": 2,
-  "channel": 4,
-  "number": 80,
+  "channel": 1,
+  "number": 124,
   "zones": [
     {
       "midi": 123,

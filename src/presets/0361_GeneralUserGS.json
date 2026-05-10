@@ -2,11 +2,11 @@
   "id": "0361_GeneralUserGS",
   "presetId": "0361",
   "bank": "GeneralUserGS",
-  "category": "Ethnic",
-  "instrument": "Banjo",
+  "category": "Bass",
+  "instrument": "Slap Bass 1",
   "serie": 1,
-  "channel": 4,
-  "number": 105,
+  "channel": 2,
+  "number": 37,
   "zones": [
     {
       "midi": 36,

@@ -2,11 +2,11 @@
   "id": "0150_FluidR3",
   "presetId": "0150",
   "bank": "FluidR3",
-  "category": "Organ",
-  "instrument": "Harmonica",
+  "category": "Chromatic Percussion",
+  "instrument": "Dulcimer",
   "serie": 0,
   "channel": 1,
-  "number": 22,
+  "number": 16,
   "zones": [
     {
       "midi": 15,

@@ -2,11 +2,11 @@
   "id": "0220_FluidR3",
   "presetId": "0220",
   "bank": "FluidR3",
-  "category": "Synth Pad",
-  "instrument": "Pad 5 (bowed glass)",
+  "category": "Organ",
+  "instrument": "Harmonica",
   "serie": 0,
-  "channel": 3,
-  "number": 92,
+  "channel": 1,
+  "number": 23,
   "zones": [
     {
       "midi": 22,

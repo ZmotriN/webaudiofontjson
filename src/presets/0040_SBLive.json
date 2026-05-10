@@ -2,11 +2,11 @@
   "id": "0040_SBLive",
   "presetId": "0040",
   "bank": "SBLive",
-  "category": "Strings",
-  "instrument": "Violin",
+  "category": "Piano",
+  "instrument": "Electric Piano 1",
   "serie": 0,
-  "channel": 3,
-  "number": 40,
+  "channel": 1,
+  "number": 5,
   "zones": [
     {
       "midi": 4,

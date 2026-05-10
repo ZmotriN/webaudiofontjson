@@ -2,11 +2,11 @@
   "id": "0253_GeneralUserGS",
   "presetId": "0253",
   "bank": "GeneralUserGS",
-  "category": "Sound Effects",
-  "instrument": "Helicopter",
+  "category": "Guitar",
+  "instrument": "Acoustic Guitar (steel)",
   "serie": 3,
-  "channel": 1,
-  "number": 125,
+  "channel": 4,
+  "number": 26,
   "zones": [
     {
       "midi": 25,

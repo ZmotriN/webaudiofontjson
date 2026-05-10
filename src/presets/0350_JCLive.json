@@ -2,11 +2,11 @@
   "id": "0350_JCLive",
   "presetId": "0350",
   "bank": "JCLive",
-  "category": "Synth Pad",
-  "instrument": "Pad 7 (halo)",
+  "category": "Bass",
+  "instrument": "Fretless Bass",
   "serie": 0,
-  "channel": 3,
-  "number": 94,
+  "channel": 2,
+  "number": 36,
   "zones": [
     {
       "midi": 35,

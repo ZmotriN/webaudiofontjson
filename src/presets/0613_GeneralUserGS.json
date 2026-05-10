@@ -2,11 +2,11 @@
   "id": "0613_GeneralUserGS",
   "presetId": "0613",
   "bank": "GeneralUserGS",
-  "category": "Synth Effects",
-  "instrument": "FX 6 (goblins)",
+  "category": "Brass",
+  "instrument": "Brass Section",
   "serie": 3,
   "channel": 3,
-  "number": 101,
+  "number": 62,
   "zones": [
     {
       "midi": 61,

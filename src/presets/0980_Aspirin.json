@@ -2,11 +2,11 @@
   "id": "0980_Aspirin",
   "presetId": "0980",
   "bank": "Aspirin",
-  "category": "Synth Lead",
-  "instrument": "Lead 5 (charang)",
+  "category": "Synth Effects",
+  "instrument": "FX 3 (crystal)",
   "serie": 0,
-  "channel": 4,
-  "number": 84,
+  "channel": 3,
+  "number": 99,
   "zones": [
     {
       "midi": 98,

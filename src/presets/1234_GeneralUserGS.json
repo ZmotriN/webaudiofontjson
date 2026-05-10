@@ -2,11 +2,11 @@
   "id": "1234_GeneralUserGS",
   "presetId": "1234",
   "bank": "GeneralUserGS",
-  "category": "Synth Lead",
-  "instrument": "Lead 3 (calliope)",
+  "category": "Sound Effects",
+  "instrument": "Bird Tweet",
   "serie": 4,
-  "channel": 4,
-  "number": 82,
+  "channel": 1,
+  "number": 124,
   "zones": [
     {
       "midi": 123,

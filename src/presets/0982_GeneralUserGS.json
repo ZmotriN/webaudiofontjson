@@ -2,11 +2,11 @@
   "id": "0982_GeneralUserGS",
   "presetId": "0982",
   "bank": "GeneralUserGS",
-  "category": "Synth Lead",
-  "instrument": "Lead 7 (fifths)",
+  "category": "Synth Effects",
+  "instrument": "FX 3 (crystal)",
   "serie": 2,
-  "channel": 4,
-  "number": 86,
+  "channel": 3,
+  "number": 99,
   "zones": [
     {
       "midi": 98,

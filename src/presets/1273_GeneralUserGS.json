@@ -3,10 +3,10 @@
   "presetId": "1273",
   "bank": "GeneralUserGS",
   "category": "Sound Effects",
-  "instrument": "Breath Noise",
+  "instrument": "Gunshot",
   "serie": 3,
   "channel": 1,
-  "number": 121,
+  "number": 128,
   "zones": [
     {
       "midi": 127,

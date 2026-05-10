@@ -2,11 +2,11 @@
   "id": "0951_FluidR3",
   "presetId": "0951",
   "bank": "FluidR3",
-  "category": "Ensemble",
-  "instrument": "Orchestra Hit",
+  "category": "Synth Pad",
+  "instrument": "Pad 8 (sweep)",
   "serie": 1,
   "channel": 3,
-  "number": 55,
+  "number": 96,
   "zones": [
     {
       "midi": 95,

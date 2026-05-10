@@ -2,11 +2,11 @@
   "id": "0290_FluidR3",
   "presetId": "0290",
   "bank": "FluidR3",
-  "category": "Bass",
-  "instrument": "Electric Bass (picked)",
+  "category": "Guitar",
+  "instrument": "Overdriven Guitar",
   "serie": 0,
-  "channel": 2,
-  "number": 34,
+  "channel": 4,
+  "number": 30,
   "zones": [
     {
       "midi": 29,

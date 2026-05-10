@@ -2,11 +2,11 @@
   "id": "0522_Soul_Ahhs",
   "presetId": "0522",
   "bank": "Soul_Ahhs",
-  "category": "Chromatic Percussion",
-  "instrument": "Music Box",
+  "category": "Ensemble",
+  "instrument": "Choir Aahs",
   "serie": 2,
-  "channel": 1,
-  "number": 10,
+  "channel": 3,
+  "number": 53,
   "zones": [
     {
       "midi": 52,

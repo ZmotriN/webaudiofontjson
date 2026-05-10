@@ -2,11 +2,11 @@
   "id": "0680_GeneralUserGS",
   "presetId": "0680",
   "bank": "GeneralUserGS",
-  "category": "Strings",
-  "instrument": "Violin",
+  "category": "Reed",
+  "instrument": "Oboe",
   "serie": 0,
-  "channel": 3,
-  "number": 40,
+  "channel": 1,
+  "number": 69,
   "zones": [
     {
       "midi": 68,

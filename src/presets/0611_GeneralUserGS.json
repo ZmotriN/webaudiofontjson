@@ -2,11 +2,11 @@
   "id": "0611_GeneralUserGS",
   "presetId": "0611",
   "bank": "GeneralUserGS",
-  "category": "Synth Effects",
-  "instrument": "FX 4 (atmosphere)",
+  "category": "Brass",
+  "instrument": "Brass Section",
   "serie": 1,
   "channel": 3,
-  "number": 99,
+  "number": 62,
   "zones": [
     {
       "midi": 61,

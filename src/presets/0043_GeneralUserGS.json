@@ -2,11 +2,11 @@
   "id": "0043_GeneralUserGS",
   "presetId": "0043",
   "bank": "GeneralUserGS",
-  "category": "Strings",
-  "instrument": "Contrabass",
+  "category": "Piano",
+  "instrument": "Electric Piano 1",
   "serie": 3,
-  "channel": 3,
-  "number": 43,
+  "channel": 1,
+  "number": 5,
   "zones": [
     {
       "midi": 4,

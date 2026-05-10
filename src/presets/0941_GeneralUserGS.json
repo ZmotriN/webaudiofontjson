@@ -2,11 +2,11 @@
   "id": "0941_GeneralUserGS",
   "presetId": "0941",
   "bank": "GeneralUserGS",
-  "category": "Strings",
-  "instrument": "Pizzicato Strings",
+  "category": "Synth Pad",
+  "instrument": "Pad 7 (halo)",
   "serie": 1,
   "channel": 3,
-  "number": 45,
+  "number": 95,
   "zones": [
     {
       "midi": 94,

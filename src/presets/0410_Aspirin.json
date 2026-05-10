@@ -2,11 +2,11 @@
   "id": "0410_Aspirin",
   "presetId": "0410",
   "bank": "Aspirin",
-  "category": "Guitar",
-  "instrument": "Electric Guitar (jazz)",
+  "category": "Strings",
+  "instrument": "Viola",
   "serie": 0,
-  "channel": 4,
-  "number": 26,
+  "channel": 3,
+  "number": 42,
   "zones": [
     {
       "midi": 41,

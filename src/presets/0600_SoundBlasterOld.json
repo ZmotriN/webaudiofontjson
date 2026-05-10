@@ -2,11 +2,11 @@
   "id": "0600_SoundBlasterOld",
   "presetId": "0600",
   "bank": "SoundBlasterOld",
-  "category": "Synth Pad",
-  "instrument": "Pad 1 (new age)",
+  "category": "Brass",
+  "instrument": "French Horn",
   "serie": 0,
   "channel": 3,
-  "number": 88,
+  "number": 61,
   "zones": [
     {
       "midi": 60,

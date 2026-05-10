@@ -2,11 +2,11 @@
   "id": "1080_Chaos",
   "presetId": "1080",
   "bank": "Chaos",
-  "category": "Brass",
-  "instrument": "Trumpet",
+  "category": "Ethnic",
+  "instrument": "Kalimba",
   "serie": 0,
-  "channel": 3,
-  "number": 56,
+  "channel": 4,
+  "number": 109,
   "zones": [
     {
       "midi": 108,

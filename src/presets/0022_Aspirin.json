@@ -2,11 +2,11 @@
   "id": "0022_Aspirin",
   "presetId": "0022",
   "bank": "Aspirin",
-  "category": "Organ",
-  "instrument": "Harmonica",
+  "category": "Piano",
+  "instrument": "Electric Grand Piano",
   "serie": 2,
   "channel": 1,
-  "number": 22,
+  "number": 3,
   "zones": [
     {
       "midi": 2,

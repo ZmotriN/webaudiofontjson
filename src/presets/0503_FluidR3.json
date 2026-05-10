@@ -2,11 +2,11 @@
   "id": "0503_FluidR3",
   "presetId": "0503",
   "bank": "FluidR3",
-  "category": "Percussive",
-  "instrument": "Reverse Cymbal",
+  "category": "Ensemble",
+  "instrument": "Synth Strings 1",
   "serie": 3,
-  "channel": 2,
-  "number": 119,
+  "channel": 3,
+  "number": 51,
   "zones": [
     {
       "midi": 50,

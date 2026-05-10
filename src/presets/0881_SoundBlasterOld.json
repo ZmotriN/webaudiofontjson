@@ -2,11 +2,11 @@
   "id": "0881_SoundBlasterOld",
   "presetId": "0881",
   "bank": "SoundBlasterOld",
-  "category": "Percussive",
-  "instrument": "Agogô",
+  "category": "Synth Pad",
+  "instrument": "Pad 1 (new age)",
   "serie": 1,
-  "channel": 2,
-  "number": 113,
+  "channel": 3,
+  "number": 89,
   "zones": [
     {
       "midi": 88,

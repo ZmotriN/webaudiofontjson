@@ -2,11 +2,11 @@
   "id": "0272_Stratocaster",
   "presetId": "0272",
   "bank": "Stratocaster",
-  "category": "Organ",
-  "instrument": "Drawbar Organ",
+  "category": "Guitar",
+  "instrument": "Electric Guitar (clean)",
   "serie": 2,
-  "channel": 1,
-  "number": 16,
+  "channel": 4,
+  "number": 28,
   "zones": [
     {
       "midi": 27,

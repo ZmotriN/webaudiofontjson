@@ -2,11 +2,11 @@
   "id": "0160_Chaos",
   "presetId": "0160",
   "bank": "Chaos",
-  "category": "Bass",
-  "instrument": "Acoustic Bass",
+  "category": "Organ",
+  "instrument": "Drawbar Organ",
   "serie": 0,
-  "channel": 2,
-  "number": 32,
+  "channel": 1,
+  "number": 17,
   "zones": [
     {
       "midi": 16,

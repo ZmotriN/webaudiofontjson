@@ -2,11 +2,11 @@
   "id": "0660_Aspirin",
   "presetId": "0660",
   "bank": "Aspirin",
-  "category": "Organ",
-  "instrument": "Reed Organ",
+  "category": "Reed",
+  "instrument": "Tenor Sax",
   "serie": 0,
   "channel": 1,
-  "number": 20,
+  "number": 67,
   "zones": [
     {
       "midi": 66,

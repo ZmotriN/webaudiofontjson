@@ -2,11 +2,11 @@
   "id": "0888_GeneralUserGS",
   "presetId": "0888",
   "bank": "GeneralUserGS",
-  "category": "Sound Effects",
-  "instrument": "Guitar Fret Noise",
+  "category": "Synth Pad",
+  "instrument": "Pad 1 (new age)",
   "serie": 8,
-  "channel": 1,
-  "number": 120,
+  "channel": 3,
+  "number": 89,
   "zones": [
     {
       "midi": 88,

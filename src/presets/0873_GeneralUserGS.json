@@ -2,11 +2,11 @@
   "id": "0873_GeneralUserGS",
   "presetId": "0873",
   "bank": "GeneralUserGS",
-  "category": "Ethnic",
-  "instrument": "Banjo",
+  "category": "Synth Lead",
+  "instrument": "Lead 8 (bass and lead)",
   "serie": 3,
   "channel": 4,
-  "number": 105,
+  "number": 88,
   "zones": [
     {
       "midi": 87,

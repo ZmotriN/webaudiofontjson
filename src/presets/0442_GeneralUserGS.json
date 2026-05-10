@@ -2,11 +2,11 @@
   "id": "0442_GeneralUserGS",
   "presetId": "0442",
   "bank": "GeneralUserGS",
-  "category": "Brass",
-  "instrument": "Tuba",
+  "category": "Strings",
+  "instrument": "Tremolo Strings",
   "serie": 2,
   "channel": 3,
-  "number": 58,
+  "number": 45,
   "zones": [
     {
       "midi": 44,

@@ -2,11 +2,11 @@
   "id": "0111_FluidR3",
   "presetId": "0111",
   "bank": "FluidR3",
-  "category": "Ethnic",
-  "instrument": "Shanai",
+  "category": "Chromatic Percussion",
+  "instrument": "Vibraphone",
   "serie": 1,
-  "channel": 4,
-  "number": 111,
+  "channel": 1,
+  "number": 12,
   "zones": [
     {
       "midi": 11,

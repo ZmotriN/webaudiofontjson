@@ -2,11 +2,11 @@
   "id": "0233_FluidR3",
   "presetId": "0233",
   "bank": "FluidR3",
-  "category": "Ethnic",
-  "instrument": "Banjo",
+  "category": "Organ",
+  "instrument": "Bandoneon",
   "serie": 3,
-  "channel": 4,
-  "number": 105,
+  "channel": 1,
+  "number": 24,
   "zones": [
     {
       "midi": 23,

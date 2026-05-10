@@ -2,11 +2,11 @@
   "id": "0983_GeneralUserGS",
   "presetId": "0983",
   "bank": "GeneralUserGS",
-  "category": "Synth Lead",
-  "instrument": "Lead 8 (bass and lead)",
+  "category": "Synth Effects",
+  "instrument": "FX 3 (crystal)",
   "serie": 3,
-  "channel": 4,
-  "number": 87,
+  "channel": 3,
+  "number": 99,
   "zones": [
     {
       "midi": 98,

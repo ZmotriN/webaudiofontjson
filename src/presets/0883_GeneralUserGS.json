@@ -2,11 +2,11 @@
   "id": "0883_GeneralUserGS",
   "presetId": "0883",
   "bank": "GeneralUserGS",
-  "category": "Percussive",
-  "instrument": "Woodblock",
+  "category": "Synth Pad",
+  "instrument": "Pad 1 (new age)",
   "serie": 3,
-  "channel": 2,
-  "number": 115,
+  "channel": 3,
+  "number": 89,
   "zones": [
     {
       "midi": 88,

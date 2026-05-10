@@ -2,11 +2,11 @@
   "id": "0984_GeneralUserGS",
   "presetId": "0984",
   "bank": "GeneralUserGS",
-  "category": "Synth Pad",
-  "instrument": "Pad 1 (new age)",
+  "category": "Synth Effects",
+  "instrument": "FX 3 (crystal)",
   "serie": 4,
   "channel": 3,
-  "number": 88,
+  "number": 99,
   "zones": [
     {
       "midi": 98,

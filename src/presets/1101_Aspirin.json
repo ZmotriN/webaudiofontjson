@@ -2,11 +2,11 @@
   "id": "1101_Aspirin",
   "presetId": "1101",
   "bank": "Aspirin",
-  "category": "Pipe",
-  "instrument": "Shakuhachi",
+  "category": "Ethnic",
+  "instrument": "Fiddle",
   "serie": 1,
-  "channel": 1,
-  "number": 77,
+  "channel": 4,
+  "number": 111,
   "zones": [
     {
       "midi": 110,

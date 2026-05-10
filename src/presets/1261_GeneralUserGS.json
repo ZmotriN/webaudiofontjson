@@ -2,11 +2,11 @@
   "id": "1261_GeneralUserGS",
   "presetId": "1261",
   "bank": "GeneralUserGS",
-  "category": "Ethnic",
-  "instrument": "Bag pipe",
+  "category": "Sound Effects",
+  "instrument": "Applause",
   "serie": 1,
-  "channel": 4,
-  "number": 109,
+  "channel": 1,
+  "number": 127,
   "zones": [
     {
       "midi": 126,

@@ -3,10 +3,10 @@
   "presetId": "0992",
   "bank": "JCLive",
   "category": "Synth Effects",
-  "instrument": "FX 1 (rain)",
+  "instrument": "FX 4 (atmosphere)",
   "serie": 2,
   "channel": 3,
-  "number": 96,
+  "number": 100,
   "zones": [
     {
       "midi": 99,

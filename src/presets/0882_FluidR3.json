@@ -2,11 +2,11 @@
   "id": "0882_FluidR3",
   "presetId": "0882",
   "bank": "FluidR3",
-  "category": "Percussive",
-  "instrument": "Steel Drums",
+  "category": "Synth Pad",
+  "instrument": "Pad 1 (new age)",
   "serie": 2,
-  "channel": 2,
-  "number": 114,
+  "channel": 3,
+  "number": 89,
   "zones": [
     {
       "midi": 88,

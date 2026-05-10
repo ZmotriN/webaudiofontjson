@@ -2,11 +2,11 @@
   "id": "0330_SBLive",
   "presetId": "0330",
   "bank": "SBLive",
-  "category": "Pipe",
-  "instrument": "Recorder",
+  "category": "Bass",
+  "instrument": "Electric Bass (finger)",
   "serie": 0,
-  "channel": 1,
-  "number": 74,
+  "channel": 2,
+  "number": 34,
   "zones": [
     {
       "midi": 33,

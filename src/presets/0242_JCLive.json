@@ -2,11 +2,11 @@
   "id": "0242_JCLive",
   "presetId": "0242",
   "bank": "JCLive",
-  "category": "Percussive",
-  "instrument": "Steel Drums",
+  "category": "Guitar",
+  "instrument": "Acoustic Guitar (nylon)",
   "serie": 2,
-  "channel": 2,
-  "number": 114,
+  "channel": 4,
+  "number": 25,
   "zones": [
     {
       "midi": 24,

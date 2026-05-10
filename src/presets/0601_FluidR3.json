@@ -2,11 +2,11 @@
   "id": "0601_FluidR3",
   "presetId": "0601",
   "bank": "FluidR3",
-  "category": "Synth Pad",
-  "instrument": "Pad 2 (warm)",
+  "category": "Brass",
+  "instrument": "French Horn",
   "serie": 1,
   "channel": 3,
-  "number": 89,
+  "number": 61,
   "zones": [
     {
       "midi": 60,

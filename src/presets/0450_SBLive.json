@@ -2,11 +2,11 @@
   "id": "0450_SBLive",
   "presetId": "0450",
   "bank": "SBLive",
-  "category": "Reed",
-  "instrument": "Tenor Sax",
+  "category": "Strings",
+  "instrument": "Pizzicato Strings",
   "serie": 0,
-  "channel": 1,
-  "number": 66,
+  "channel": 3,
+  "number": 46,
   "zones": [
     {
       "midi": 45,

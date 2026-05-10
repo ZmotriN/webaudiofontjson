@@ -2,11 +2,11 @@
   "id": "0070_SoundBlasterOld",
   "presetId": "0070",
   "bank": "SoundBlasterOld",
-  "category": "Reed",
-  "instrument": "Bassoon",
+  "category": "Piano",
+  "instrument": "Clavinet",
   "serie": 0,
   "channel": 1,
-  "number": 70,
+  "number": 8,
   "zones": [
     {
       "midi": 7,

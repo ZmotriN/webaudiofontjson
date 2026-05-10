@@ -2,11 +2,11 @@
   "id": "0650_SBLive",
   "presetId": "0650",
   "bank": "SBLive",
-  "category": "Chromatic Percussion",
-  "instrument": "Music Box",
+  "category": "Reed",
+  "instrument": "Alto Sax",
   "serie": 0,
   "channel": 1,
-  "number": 10,
+  "number": 66,
   "zones": [
     {
       "midi": 65,

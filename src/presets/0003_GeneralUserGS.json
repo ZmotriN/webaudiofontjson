@@ -3,10 +3,10 @@
   "presetId": "0003",
   "bank": "GeneralUserGS",
   "category": "Piano",
-  "instrument": "Honky-tonk Piano",
+  "instrument": "Acoustic Grand Piano",
   "serie": 3,
   "channel": 1,
-  "number": 3,
+  "number": 1,
   "zones": [
     {
       "midi": 0,

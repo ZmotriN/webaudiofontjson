@@ -2,11 +2,11 @@
   "id": "0841_Chaos",
   "presetId": "0841",
   "bank": "Chaos",
-  "category": "Pipe",
-  "instrument": "Flute",
+  "category": "Synth Lead",
+  "instrument": "Lead 5 (charang)",
   "serie": 1,
-  "channel": 1,
-  "number": 73,
+  "channel": 4,
+  "number": 85,
   "zones": [
     {
       "midi": 84,

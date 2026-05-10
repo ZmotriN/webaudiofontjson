@@ -2,11 +2,11 @@
   "id": "0831_SoundBlasterOld",
   "presetId": "0831",
   "bank": "SoundBlasterOld",
-  "category": "Brass",
-  "instrument": "Synth Brass 2",
+  "category": "Synth Lead",
+  "instrument": "Lead 4 (chiff)",
   "serie": 1,
-  "channel": 3,
-  "number": 63,
+  "channel": 4,
+  "number": 84,
   "zones": [
     {
       "midi": 83,

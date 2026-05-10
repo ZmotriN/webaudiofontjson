@@ -2,11 +2,11 @@
   "id": "0771_FluidR3",
   "presetId": "0771",
   "bank": "FluidR3",
-  "category": "Piano",
-  "instrument": "Honky-tonk Piano",
+  "category": "Pipe",
+  "instrument": "Shakuhachi",
   "serie": 1,
   "channel": 1,
-  "number": 3,
+  "number": 78,
   "zones": [
     {
       "midi": 77,

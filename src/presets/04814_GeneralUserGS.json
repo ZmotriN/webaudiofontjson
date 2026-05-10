@@ -2,11 +2,11 @@
   "id": "04814_GeneralUserGS",
   "presetId": "04814",
   "bank": "GeneralUserGS",
-  "category": "Pipe",
-  "instrument": "Whistle",
-  "serie": 1,
-  "channel": 1,
-  "number": 78,
+  "category": "Ensemble",
+  "instrument": "String Ensemble 1",
+  "serie": 14,
+  "channel": 3,
+  "number": 49,
   "zones": [
     {
       "midi": 48,

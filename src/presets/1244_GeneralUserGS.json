@@ -2,11 +2,11 @@
   "id": "1244_GeneralUserGS",
   "presetId": "1244",
   "bank": "GeneralUserGS",
-  "category": "Synth Pad",
-  "instrument": "Pad 5 (bowed glass)",
+  "category": "Sound Effects",
+  "instrument": "Telephone Ring",
   "serie": 4,
-  "channel": 3,
-  "number": 92,
+  "channel": 1,
+  "number": 125,
   "zones": [
     {
       "midi": 124,

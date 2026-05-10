@@ -2,11 +2,11 @@
   "id": "0371_GeneralUserGS",
   "presetId": "0371",
   "bank": "GeneralUserGS",
-  "category": "Percussive",
-  "instrument": "Woodblock",
+  "category": "Bass",
+  "instrument": "Slap Bass 2",
   "serie": 1,
   "channel": 2,
-  "number": 115,
+  "number": 38,
   "zones": [
     {
       "midi": 37,

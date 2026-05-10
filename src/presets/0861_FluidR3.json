@@ -2,11 +2,11 @@
   "id": "0861_FluidR3",
   "presetId": "0861",
   "bank": "FluidR3",
-  "category": "Synth Pad",
-  "instrument": "Pad 6 (metallic)",
+  "category": "Synth Lead",
+  "instrument": "Lead 7 (fifths)",
   "serie": 1,
-  "channel": 3,
-  "number": 93,
+  "channel": 4,
+  "number": 87,
   "zones": [
     {
       "midi": 86,

@@ -2,11 +2,11 @@
   "id": "1220_JCLive",
   "presetId": "1220",
   "bank": "JCLive",
-  "category": "Reed",
-  "instrument": "Oboe",
+  "category": "Sound Effects",
+  "instrument": "Seashore",
   "serie": 0,
   "channel": 1,
-  "number": 68,
+  "number": 123,
   "zones": [
     {
       "midi": 122,

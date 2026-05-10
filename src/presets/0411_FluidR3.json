@@ -2,11 +2,11 @@
   "id": "0411_FluidR3",
   "presetId": "0411",
   "bank": "FluidR3",
-  "category": "Guitar",
-  "instrument": "Electric Guitar (clean)",
+  "category": "Strings",
+  "instrument": "Viola",
   "serie": 1,
-  "channel": 4,
-  "number": 27,
+  "channel": 3,
+  "number": 42,
   "zones": [
     {
       "midi": 41,

@@ -2,11 +2,11 @@
   "id": "0751_SoundBlasterOld",
   "presetId": "0751",
   "bank": "SoundBlasterOld",
-  "category": "Ethnic",
-  "instrument": "Shanai",
+  "category": "Pipe",
+  "instrument": "Pan Flute",
   "serie": 1,
-  "channel": 4,
-  "number": 111,
+  "channel": 1,
+  "number": 76,
   "zones": [
     {
       "midi": 75,

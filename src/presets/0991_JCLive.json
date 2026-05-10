@@ -2,11 +2,11 @@
   "id": "0991_JCLive",
   "presetId": "0991",
   "bank": "JCLive",
-  "category": "Synth Pad",
-  "instrument": "Pad 8 (sweep)",
+  "category": "Synth Effects",
+  "instrument": "FX 4 (atmosphere)",
   "serie": 1,
   "channel": 3,
-  "number": 95,
+  "number": 100,
   "zones": [
     {
       "midi": 99,

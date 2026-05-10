@@ -2,11 +2,11 @@
   "id": "0540_Chaos",
   "presetId": "0540",
   "bank": "Chaos",
-  "category": "Guitar",
-  "instrument": "Electric Guitar (muted)",
+  "category": "Ensemble",
+  "instrument": "Synth Voice",
   "serie": 0,
-  "channel": 4,
-  "number": 28,
+  "channel": 3,
+  "number": 55,
   "zones": [
     {
       "midi": 54,

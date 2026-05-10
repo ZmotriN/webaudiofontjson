@@ -2,11 +2,11 @@
   "id": "0351_GeneralUserGS",
   "presetId": "0351",
   "bank": "GeneralUserGS",
-  "category": "Synth Pad",
-  "instrument": "Pad 8 (sweep)",
+  "category": "Bass",
+  "instrument": "Fretless Bass",
   "serie": 1,
-  "channel": 3,
-  "number": 95,
+  "channel": 2,
+  "number": 36,
   "zones": [
     {
       "midi": 35,

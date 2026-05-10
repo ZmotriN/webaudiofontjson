@@ -2,11 +2,11 @@
   "id": "0471_GeneralUserGS",
   "presetId": "0471",
   "bank": "GeneralUserGS",
-  "category": "Synth Lead",
-  "instrument": "Lead 8 (bass and lead)",
+  "category": "Strings",
+  "instrument": "Timpani",
   "serie": 1,
-  "channel": 4,
-  "number": 87,
+  "channel": 3,
+  "number": 48,
   "zones": [
     {
       "midi": 47,

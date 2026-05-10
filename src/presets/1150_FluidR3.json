@@ -2,11 +2,11 @@
   "id": "1150_FluidR3",
   "presetId": "1150",
   "bank": "FluidR3",
-  "category": "Sound Effects",
-  "instrument": "Applause",
+  "category": "Percussive",
+  "instrument": "Woodblock",
   "serie": 0,
-  "channel": 1,
-  "number": 126,
+  "channel": 2,
+  "number": 116,
   "zones": [
     {
       "midi": 115,

@@ -2,11 +2,11 @@
   "id": "0840_GeneralUserGS",
   "presetId": "0840",
   "bank": "GeneralUserGS",
-  "category": "Pipe",
-  "instrument": "Piccolo",
+  "category": "Synth Lead",
+  "instrument": "Lead 5 (charang)",
   "serie": 0,
-  "channel": 1,
-  "number": 72,
+  "channel": 4,
+  "number": 85,
   "zones": [
     {
       "midi": 84,

@@ -2,11 +2,11 @@
   "id": "0181_GeneralUserGS",
   "presetId": "0181",
   "bank": "GeneralUserGS",
-  "category": "Ensemble",
-  "instrument": "Voice Oohs",
+  "category": "Organ",
+  "instrument": "Rock Organ",
   "serie": 1,
-  "channel": 3,
-  "number": 53,
+  "channel": 1,
+  "number": 19,
   "zones": [
     {
       "midi": 18,

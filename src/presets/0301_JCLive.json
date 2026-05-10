@@ -2,11 +2,11 @@
   "id": "0301_JCLive",
   "presetId": "0301",
   "bank": "JCLive",
-  "category": "Strings",
-  "instrument": "Pizzicato Strings",
+  "category": "Guitar",
+  "instrument": "Distortion Guitar",
   "serie": 1,
-  "channel": 3,
-  "number": 45,
+  "channel": 4,
+  "number": 31,
   "zones": [
     {
       "midi": 30,

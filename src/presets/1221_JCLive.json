@@ -2,11 +2,11 @@
   "id": "1221_JCLive",
   "presetId": "1221",
   "bank": "JCLive",
-  "category": "Reed",
-  "instrument": "English Horn",
+  "category": "Sound Effects",
+  "instrument": "Seashore",
   "serie": 1,
   "channel": 1,
-  "number": 69,
+  "number": 123,
   "zones": [
     {
       "midi": 122,

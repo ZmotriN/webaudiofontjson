@@ -2,11 +2,11 @@
   "id": "0171_FluidR3",
   "presetId": "0171",
   "bank": "FluidR3",
-  "category": "Strings",
-  "instrument": "Contrabass",
+  "category": "Organ",
+  "instrument": "Percussive Organ",
   "serie": 1,
-  "channel": 3,
-  "number": 43,
+  "channel": 1,
+  "number": 18,
   "zones": [
     {
       "midi": 17,

@@ -3,10 +3,10 @@
   "presetId": "1274",
   "bank": "GeneralUserGS",
   "category": "Sound Effects",
-  "instrument": "Seashore",
+  "instrument": "Gunshot",
   "serie": 4,
   "channel": 1,
-  "number": 122,
+  "number": 128,
   "zones": [
     {
       "midi": 127,

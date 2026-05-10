@@ -2,11 +2,11 @@
   "id": "0801_GeneralUserGS",
   "presetId": "0801",
   "bank": "GeneralUserGS",
-  "category": "Bass",
-  "instrument": "Electric Bass (finger)",
+  "category": "Synth Lead",
+  "instrument": "Lead 1 (square)",
   "serie": 1,
-  "channel": 2,
-  "number": 33,
+  "channel": 4,
+  "number": 81,
   "zones": [
     {
       "midi": 80,

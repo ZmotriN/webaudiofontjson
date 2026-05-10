@@ -2,11 +2,11 @@
   "id": "1222_Aspirin",
   "presetId": "1222",
   "bank": "Aspirin",
-  "category": "Reed",
-  "instrument": "Bassoon",
+  "category": "Sound Effects",
+  "instrument": "Seashore",
   "serie": 2,
   "channel": 1,
-  "number": 70,
+  "number": 123,
   "zones": [
     {
       "midi": 122,

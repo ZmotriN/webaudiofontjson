@@ -2,11 +2,11 @@
   "id": "0487_GeneralUserGS",
   "presetId": "0487",
   "bank": "GeneralUserGS",
-  "category": "Synth Effects",
-  "instrument": "FX 8 (sci-fi)",
+  "category": "Ensemble",
+  "instrument": "String Ensemble 1",
   "serie": 7,
   "channel": 3,
-  "number": 103,
+  "number": 49,
   "zones": [
     {
       "midi": 48,

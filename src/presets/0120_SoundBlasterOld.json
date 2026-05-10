@@ -2,11 +2,11 @@
   "id": "0120_SoundBlasterOld",
   "presetId": "0120",
   "bank": "SoundBlasterOld",
-  "category": "Sound Effects",
-  "instrument": "Guitar Fret Noise",
+  "category": "Chromatic Percussion",
+  "instrument": "Marimba",
   "serie": 0,
   "channel": 1,
-  "number": 120,
+  "number": 13,
   "zones": [
     {
       "midi": 12,

@@ -2,11 +2,11 @@
   "id": "1250_JCLive",
   "presetId": "1250",
   "bank": "JCLive",
-  "category": "Synth Effects",
-  "instrument": "FX 3 (crystal)",
+  "category": "Sound Effects",
+  "instrument": "Helicopter",
   "serie": 0,
-  "channel": 3,
-  "number": 98,
+  "channel": 1,
+  "number": 126,
   "zones": [
     {
       "midi": 125,

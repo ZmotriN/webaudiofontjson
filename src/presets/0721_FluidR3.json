@@ -2,11 +2,11 @@
   "id": "0721_FluidR3",
   "presetId": "0721",
   "bank": "FluidR3",
-  "category": "Synth Lead",
-  "instrument": "Lead 2 (sawtooth)",
+  "category": "Pipe",
+  "instrument": "Piccolo",
   "serie": 1,
-  "channel": 4,
-  "number": 81,
+  "channel": 1,
+  "number": 73,
   "zones": [
     {
       "midi": 72,

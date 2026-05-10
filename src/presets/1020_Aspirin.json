@@ -2,11 +2,11 @@
   "id": "1020_Aspirin",
   "presetId": "1020",
   "bank": "Aspirin",
-  "category": "Sound Effects",
-  "instrument": "Telephone Ring",
+  "category": "Synth Effects",
+  "instrument": "FX 7 (echoes)",
   "serie": 0,
-  "channel": 1,
-  "number": 124,
+  "channel": 3,
+  "number": 103,
   "zones": [
     {
       "midi": 102,

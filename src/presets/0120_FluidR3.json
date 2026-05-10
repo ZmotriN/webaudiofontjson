@@ -2,11 +2,11 @@
   "id": "0120_FluidR3",
   "presetId": "0120",
   "bank": "FluidR3",
-  "category": "Sound Effects",
-  "instrument": "Guitar Fret Noise",
+  "category": "Chromatic Percussion",
+  "instrument": "Marimba",
   "serie": 0,
   "channel": 1,
-  "number": 120,
+  "number": 13,
   "zones": [
     {
       "midi": 12,

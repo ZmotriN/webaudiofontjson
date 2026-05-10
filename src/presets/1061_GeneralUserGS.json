@@ -2,11 +2,11 @@
   "id": "1061_GeneralUserGS",
   "presetId": "1061",
   "bank": "GeneralUserGS",
-  "category": "Bass",
-  "instrument": "Slap Bass 2",
+  "category": "Ethnic",
+  "instrument": "Shamisen",
   "serie": 1,
-  "channel": 2,
-  "number": 37,
+  "channel": 4,
+  "number": 107,
   "zones": [
     {
       "midi": 106,

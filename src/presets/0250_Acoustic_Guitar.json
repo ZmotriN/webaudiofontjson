@@ -2,11 +2,11 @@
   "id": "0250_Acoustic_Guitar",
   "presetId": "0250",
   "bank": "Acoustic_Guitar",
-  "category": "Sound Effects",
-  "instrument": "Seashore",
+  "category": "Guitar",
+  "instrument": "Acoustic Guitar (steel)",
   "serie": 0,
-  "channel": 1,
-  "number": 122,
+  "channel": 4,
+  "number": 26,
   "zones": [
     {
       "midi": 25,

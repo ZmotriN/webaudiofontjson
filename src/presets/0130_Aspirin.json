@@ -2,11 +2,11 @@
   "id": "0130_Aspirin",
   "presetId": "0130",
   "bank": "Aspirin",
-  "category": "Piano",
-  "instrument": "Electric Grand Piano",
+  "category": "Chromatic Percussion",
+  "instrument": "Xylophone",
   "serie": 0,
   "channel": 1,
-  "number": 2,
+  "number": 14,
   "zones": [
     {
       "midi": 13,

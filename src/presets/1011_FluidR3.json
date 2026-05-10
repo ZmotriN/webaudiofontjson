@@ -2,11 +2,11 @@
   "id": "1011_FluidR3",
   "presetId": "1011",
   "bank": "FluidR3",
-  "category": "Percussive",
-  "instrument": "Woodblock",
+  "category": "Synth Effects",
+  "instrument": "FX 6 (goblins)",
   "serie": 1,
-  "channel": 2,
-  "number": 115,
+  "channel": 3,
+  "number": 102,
   "zones": [
     {
       "midi": 101,

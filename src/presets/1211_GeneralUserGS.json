@@ -2,11 +2,11 @@
   "id": "1211_GeneralUserGS",
   "presetId": "1211",
   "bank": "GeneralUserGS",
-  "category": "Brass",
-  "instrument": "Muted Trumpet",
+  "category": "Sound Effects",
+  "instrument": "Breath Noise",
   "serie": 1,
-  "channel": 3,
-  "number": 59,
+  "channel": 1,
+  "number": 122,
   "zones": [
     {
       "midi": 121,

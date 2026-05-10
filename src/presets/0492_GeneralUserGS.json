@@ -2,11 +2,11 @@
   "id": "0492_GeneralUserGS",
   "presetId": "0492",
   "bank": "GeneralUserGS",
-  "category": "Ethnic",
-  "instrument": "Kalimba",
+  "category": "Ensemble",
+  "instrument": "String Ensemble 2",
   "serie": 2,
-  "channel": 4,
-  "number": 108,
+  "channel": 3,
+  "number": 50,
   "zones": [
     {
       "midi": 49,

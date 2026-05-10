@@ -2,11 +2,11 @@
   "id": "1223_GeneralUserGS",
   "presetId": "1223",
   "bank": "GeneralUserGS",
-  "category": "Reed",
-  "instrument": "Clarinet",
+  "category": "Sound Effects",
+  "instrument": "Seashore",
   "serie": 3,
   "channel": 1,
-  "number": 71,
+  "number": 123,
   "zones": [
     {
       "midi": 122,

@@ -2,11 +2,11 @@
   "id": "0886_GeneralUserGS",
   "presetId": "0886",
   "bank": "GeneralUserGS",
-  "category": "Percussive",
-  "instrument": "Synth Drum",
+  "category": "Synth Pad",
+  "instrument": "Pad 1 (new age)",
   "serie": 6,
-  "channel": 2,
-  "number": 118,
+  "channel": 3,
+  "number": 89,
   "zones": [
     {
       "midi": 88,

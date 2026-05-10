@@ -2,11 +2,11 @@
   "id": "0620_GeneralUserGS",
   "presetId": "0620",
   "bank": "GeneralUserGS",
-  "category": "Ethnic",
-  "instrument": "Kalimba",
+  "category": "Brass",
+  "instrument": "Synth Brass 1",
   "serie": 0,
-  "channel": 4,
-  "number": 108,
+  "channel": 3,
+  "number": 63,
   "zones": [
     {
       "midi": 62,

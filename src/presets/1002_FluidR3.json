@@ -2,11 +2,11 @@
   "id": "1002_FluidR3",
   "presetId": "1002",
   "bank": "FluidR3",
-  "category": "Ethnic",
-  "instrument": "Shamisen",
+  "category": "Synth Effects",
+  "instrument": "FX 5 (brightness)",
   "serie": 2,
-  "channel": 4,
-  "number": 106,
+  "channel": 3,
+  "number": 101,
   "zones": [
     {
       "midi": 100,

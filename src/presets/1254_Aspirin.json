@@ -2,11 +2,11 @@
   "id": "1254_Aspirin",
   "presetId": "1254",
   "bank": "Aspirin",
-  "category": "Synth Effects",
-  "instrument": "FX 7 (echoes)",
+  "category": "Sound Effects",
+  "instrument": "Helicopter",
   "serie": 4,
-  "channel": 3,
-  "number": 102,
+  "channel": 1,
+  "number": 126,
   "zones": [
     {
       "midi": 125,

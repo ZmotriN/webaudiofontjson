@@ -2,11 +2,11 @@
   "id": "1194_GeneralUserGS",
   "presetId": "1194",
   "bank": "GeneralUserGS",
-  "category": "Strings",
-  "instrument": "Cello",
+  "category": "Percussive",
+  "instrument": "Reverse Cymbal",
   "serie": 4,
-  "channel": 3,
-  "number": 42,
+  "channel": 2,
+  "number": 120,
   "zones": [
     {
       "midi": 119,

@@ -2,11 +2,11 @@
   "id": "0270_SBAWE32",
   "presetId": "0270",
   "bank": "SBAWE32",
-  "category": "Chromatic Percussion",
-  "instrument": "Tubular Bells",
+  "category": "Guitar",
+  "instrument": "Electric Guitar (clean)",
   "serie": 0,
-  "channel": 1,
-  "number": 14,
+  "channel": 4,
+  "number": 28,
   "zones": [
     {
       "midi": 27,

@@ -2,11 +2,11 @@
   "id": "0641_FluidR3",
   "presetId": "0641",
   "bank": "FluidR3",
-  "category": "Piano",
-  "instrument": "Bright Acoustic Piano",
+  "category": "Reed",
+  "instrument": "Soprano Sax",
   "serie": 1,
   "channel": 1,
-  "number": 1,
+  "number": 65,
   "zones": [
     {
       "midi": 64,

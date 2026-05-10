@@ -2,11 +2,11 @@
   "id": "0042_GeneralUserGS",
   "presetId": "0042",
   "bank": "GeneralUserGS",
-  "category": "Strings",
-  "instrument": "Cello",
+  "category": "Piano",
+  "instrument": "Electric Piano 1",
   "serie": 2,
-  "channel": 3,
-  "number": 42,
+  "channel": 1,
+  "number": 5,
   "zones": [
     {
       "midi": 4,

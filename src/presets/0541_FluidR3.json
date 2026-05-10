@@ -2,11 +2,11 @@
   "id": "0541_FluidR3",
   "presetId": "0541",
   "bank": "FluidR3",
-  "category": "Guitar",
-  "instrument": "Overdriven Guitar",
+  "category": "Ensemble",
+  "instrument": "Synth Voice",
   "serie": 1,
-  "channel": 4,
-  "number": 29,
+  "channel": 3,
+  "number": 55,
   "zones": [
     {
       "midi": 54,

@@ -2,11 +2,11 @@
   "id": "0331_GeneralUserGS",
   "presetId": "0331",
   "bank": "GeneralUserGS",
-  "category": "Pipe",
-  "instrument": "Pan Flute",
+  "category": "Bass",
+  "instrument": "Electric Bass (finger)",
   "serie": 1,
-  "channel": 1,
-  "number": 75,
+  "channel": 2,
+  "number": 34,
   "zones": [
     {
       "midi": 33,

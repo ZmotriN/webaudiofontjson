@@ -2,11 +2,11 @@
   "id": "1130_SBLive",
   "presetId": "1130",
   "bank": "SBLive",
-  "category": "Ethnic",
-  "instrument": "Shamisen",
+  "category": "Percussive",
+  "instrument": "Agogô",
   "serie": 0,
-  "channel": 4,
-  "number": 106,
+  "channel": 2,
+  "number": 114,
   "zones": [
     {
       "midi": 113,

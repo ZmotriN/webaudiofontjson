@@ -2,11 +2,11 @@
   "id": "0780_Aspirin",
   "presetId": "0780",
   "bank": "Aspirin",
-  "category": "Chromatic Percussion",
-  "instrument": "Marimba",
+  "category": "Pipe",
+  "instrument": "Whistle",
   "serie": 0,
   "channel": 1,
-  "number": 12,
+  "number": 79,
   "zones": [
     {
       "midi": 78,

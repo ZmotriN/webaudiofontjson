@@ -2,11 +2,11 @@
   "id": "0500_JCLive",
   "presetId": "0500",
   "bank": "JCLive",
-  "category": "Percussive",
-  "instrument": "Taiko Drum",
+  "category": "Ensemble",
+  "instrument": "Synth Strings 1",
   "serie": 0,
-  "channel": 2,
-  "number": 116,
+  "channel": 3,
+  "number": 51,
   "zones": [
     {
       "midi": 50,

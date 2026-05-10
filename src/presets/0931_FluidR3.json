@@ -2,11 +2,11 @@
   "id": "0931_FluidR3",
   "presetId": "0931",
   "bank": "FluidR3",
-  "category": "Bass",
-  "instrument": "Fretless Bass",
+  "category": "Synth Pad",
+  "instrument": "Pad 6 (metallic)",
   "serie": 1,
-  "channel": 2,
-  "number": 35,
+  "channel": 3,
+  "number": 94,
   "zones": [
     {
       "midi": 93,

@@ -2,11 +2,11 @@
   "id": "0502_FluidR3",
   "presetId": "0502",
   "bank": "FluidR3",
-  "category": "Percussive",
-  "instrument": "Synth Drum",
+  "category": "Ensemble",
+  "instrument": "Synth Strings 1",
   "serie": 2,
-  "channel": 2,
-  "number": 118,
+  "channel": 3,
+  "number": 51,
   "zones": [
     {
       "midi": 50,

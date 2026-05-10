@@ -3,10 +3,10 @@
   "presetId": "0993",
   "bank": "JCLive",
   "category": "Synth Effects",
-  "instrument": "FX 2 (soundtrack)",
+  "instrument": "FX 4 (atmosphere)",
   "serie": 3,
   "channel": 3,
-  "number": 97,
+  "number": 100,
   "zones": [
     {
       "midi": 99,

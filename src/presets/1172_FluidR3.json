@@ -2,11 +2,11 @@
   "id": "1172_FluidR3",
   "presetId": "1172",
   "bank": "FluidR3",
-  "category": "Organ",
-  "instrument": "Reed Organ",
+  "category": "Percussive",
+  "instrument": "Melodic Tom",
   "serie": 2,
-  "channel": 1,
-  "number": 20,
+  "channel": 2,
+  "number": 118,
   "zones": [
     {
       "midi": 117,

@@ -2,11 +2,11 @@
   "id": "0490_FluidR3",
   "presetId": "0490",
   "bank": "FluidR3",
-  "category": "Ethnic",
-  "instrument": "Shamisen",
+  "category": "Ensemble",
+  "instrument": "String Ensemble 2",
   "serie": 0,
-  "channel": 4,
-  "number": 106,
+  "channel": 3,
+  "number": 50,
   "zones": [
     {
       "midi": 49,

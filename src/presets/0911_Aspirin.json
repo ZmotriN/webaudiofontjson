@@ -2,11 +2,11 @@
   "id": "0911_Aspirin",
   "presetId": "0911",
   "bank": "Aspirin",
-  "category": "Chromatic Percussion",
-  "instrument": "Dulcimer",
+  "category": "Synth Pad",
+  "instrument": "Pad 4 (choir)",
   "serie": 1,
-  "channel": 1,
-  "number": 15,
+  "channel": 3,
+  "number": 92,
   "zones": [
     {
       "midi": 91,

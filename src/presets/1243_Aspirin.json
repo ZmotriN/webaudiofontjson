@@ -2,11 +2,11 @@
   "id": "1243_Aspirin",
   "presetId": "1243",
   "bank": "Aspirin",
-  "category": "Synth Pad",
-  "instrument": "Pad 4 (choir)",
+  "category": "Sound Effects",
+  "instrument": "Telephone Ring",
   "serie": 3,
-  "channel": 3,
-  "number": 91,
+  "channel": 1,
+  "number": 125,
   "zones": [
     {
       "midi": 124,

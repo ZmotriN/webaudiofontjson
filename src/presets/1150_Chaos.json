@@ -2,11 +2,11 @@
   "id": "1150_Chaos",
   "presetId": "1150",
   "bank": "Chaos",
-  "category": "Sound Effects",
-  "instrument": "Applause",
+  "category": "Percussive",
+  "instrument": "Woodblock",
   "serie": 0,
-  "channel": 1,
-  "number": 126,
+  "channel": 2,
+  "number": 116,
   "zones": [
     {
       "midi": 115,

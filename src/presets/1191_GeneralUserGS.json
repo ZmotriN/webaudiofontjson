@@ -2,11 +2,11 @@
   "id": "1191_GeneralUserGS",
   "presetId": "1191",
   "bank": "GeneralUserGS",
-  "category": "Bass",
-  "instrument": "Synth Bass 2",
+  "category": "Percussive",
+  "instrument": "Reverse Cymbal",
   "serie": 1,
   "channel": 2,
-  "number": 39,
+  "number": 120,
   "zones": [
     {
       "midi": 119,

@@ -2,11 +2,11 @@
   "id": "0440_Aspirin",
   "presetId": "0440",
   "bank": "Aspirin",
-  "category": "Brass",
-  "instrument": "Trumpet",
+  "category": "Strings",
+  "instrument": "Tremolo Strings",
   "serie": 0,
   "channel": 3,
-  "number": 56,
+  "number": 45,
   "zones": [
     {
       "midi": 44,

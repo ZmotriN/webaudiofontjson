@@ -2,11 +2,11 @@
   "id": "0210_SoundBlasterOld",
   "presetId": "0210",
   "bank": "SoundBlasterOld",
-  "category": "Synth Lead",
-  "instrument": "Lead 3 (calliope)",
+  "category": "Organ",
+  "instrument": "Accordion",
   "serie": 0,
-  "channel": 4,
-  "number": 82,
+  "channel": 1,
+  "number": 22,
   "zones": [
     {
       "midi": 21,

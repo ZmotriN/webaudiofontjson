@@ -2,11 +2,11 @@
   "id": "0661_GeneralUserGS",
   "presetId": "0661",
   "bank": "GeneralUserGS",
-  "category": "Organ",
-  "instrument": "Accordion",
+  "category": "Reed",
+  "instrument": "Tenor Sax",
   "serie": 1,
   "channel": 1,
-  "number": 21,
+  "number": 67,
   "zones": [
     {
       "midi": 66,

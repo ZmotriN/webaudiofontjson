@@ -2,11 +2,11 @@
   "id": "0800_SoundBlasterOld",
   "presetId": "0800",
   "bank": "SoundBlasterOld",
-  "category": "Bass",
-  "instrument": "Acoustic Bass",
+  "category": "Synth Lead",
+  "instrument": "Lead 1 (square)",
   "serie": 0,
-  "channel": 2,
-  "number": 32,
+  "channel": 4,
+  "number": 81,
   "zones": [
     {
       "midi": 80,

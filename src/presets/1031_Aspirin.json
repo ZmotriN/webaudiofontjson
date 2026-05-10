@@ -2,11 +2,11 @@
   "id": "1031_Aspirin",
   "presetId": "1031",
   "bank": "Aspirin",
-  "category": "Piano",
-  "instrument": "Clavinet",
+  "category": "Synth Effects",
+  "instrument": "FX 8 (sci-fi)",
   "serie": 1,
-  "channel": 1,
-  "number": 7,
+  "channel": 3,
+  "number": 104,
   "zones": [
     {
       "midi": 103,

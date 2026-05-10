@@ -2,11 +2,11 @@
   "id": "0470_SBLive",
   "presetId": "0470",
   "bank": "SBLive",
-  "category": "Synth Lead",
-  "instrument": "Lead 7 (fifths)",
+  "category": "Strings",
+  "instrument": "Timpani",
   "serie": 0,
-  "channel": 4,
-  "number": 86,
+  "channel": 3,
+  "number": 48,
   "zones": [
     {
       "midi": 47,

@@ -2,11 +2,11 @@
   "id": "0560_Aspirin",
   "presetId": "0560",
   "bank": "Aspirin",
-  "category": "Ensemble",
-  "instrument": "String Ensemble 1",
+  "category": "Brass",
+  "instrument": "Trumpet",
   "serie": 0,
   "channel": 3,
-  "number": 48,
+  "number": 57,
   "zones": [
     {
       "midi": 56,

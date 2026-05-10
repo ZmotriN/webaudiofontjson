@@ -2,11 +2,11 @@
   "id": "0303_Aspirin",
   "presetId": "0303",
   "bank": "Aspirin",
-  "category": "Strings",
-  "instrument": "Timpani",
+  "category": "Guitar",
+  "instrument": "Distortion Guitar",
   "serie": 3,
-  "channel": 3,
-  "number": 47,
+  "channel": 4,
+  "number": 31,
   "zones": [
     {
       "midi": 30,

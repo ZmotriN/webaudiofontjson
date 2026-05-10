@@ -2,11 +2,11 @@
   "id": "0970_Chaos",
   "presetId": "0970",
   "bank": "Chaos",
-  "category": "Pipe",
-  "instrument": "Recorder",
+  "category": "Synth Effects",
+  "instrument": "FX 2 (soundtrack)",
   "serie": 0,
-  "channel": 1,
-  "number": 74,
+  "channel": 3,
+  "number": 98,
   "zones": [
     {
       "midi": 97,

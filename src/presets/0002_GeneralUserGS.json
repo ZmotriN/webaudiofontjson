@@ -3,10 +3,10 @@
   "presetId": "0002",
   "bank": "GeneralUserGS",
   "category": "Piano",
-  "instrument": "Electric Grand Piano",
+  "instrument": "Acoustic Grand Piano",
   "serie": 2,
   "channel": 1,
-  "number": 2,
+  "number": 1,
   "zones": [
     {
       "midi": 0,

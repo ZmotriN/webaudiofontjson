@@ -3,10 +3,10 @@
   "presetId": "0280",
   "bank": "GeneralUserGS",
   "category": "Guitar",
-  "instrument": "Acoustic Guitar (nylon)",
+  "instrument": "Electric Guitar (muted)",
   "serie": 0,
   "channel": 4,
-  "number": 24,
+  "number": 29,
   "zones": [
     {
       "midi": 28,

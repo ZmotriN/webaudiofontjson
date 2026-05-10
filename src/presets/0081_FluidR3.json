@@ -2,11 +2,11 @@
   "id": "0081_FluidR3",
   "presetId": "0081",
   "bank": "FluidR3",
-  "category": "Synth Lead",
-  "instrument": "Lead 2 (sawtooth)",
+  "category": "Chromatic Percussion",
+  "instrument": "Celesta",
   "serie": 1,
-  "channel": 4,
-  "number": 81,
+  "channel": 1,
+  "number": 9,
   "zones": [
     {
       "midi": 8,

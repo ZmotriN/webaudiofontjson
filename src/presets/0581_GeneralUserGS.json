@@ -2,11 +2,11 @@
   "id": "0581_GeneralUserGS",
   "presetId": "0581",
   "bank": "GeneralUserGS",
-  "category": "Reed",
-  "instrument": "English Horn",
+  "category": "Brass",
+  "instrument": "Tuba",
   "serie": 1,
-  "channel": 1,
-  "number": 69,
+  "channel": 3,
+  "number": 59,
   "zones": [
     {
       "midi": 58,

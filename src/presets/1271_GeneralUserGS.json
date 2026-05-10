@@ -2,11 +2,11 @@
   "id": "1271_GeneralUserGS",
   "presetId": "1271",
   "bank": "GeneralUserGS",
-  "category": "Percussive",
-  "instrument": "Reverse Cymbal",
+  "category": "Sound Effects",
+  "instrument": "Gunshot",
   "serie": 1,
-  "channel": 2,
-  "number": 119,
+  "channel": 1,
+  "number": 128,
   "zones": [
     {
       "midi": 127,

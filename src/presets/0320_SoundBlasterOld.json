@@ -2,11 +2,11 @@
   "id": "0320_SoundBlasterOld",
   "presetId": "0320",
   "bank": "SoundBlasterOld",
-  "category": "Reed",
-  "instrument": "Soprano Sax",
+  "category": "Bass",
+  "instrument": "Acoustic Bass",
   "serie": 0,
-  "channel": 1,
-  "number": 64,
+  "channel": 2,
+  "number": 33,
   "zones": [
     {
       "midi": 32,

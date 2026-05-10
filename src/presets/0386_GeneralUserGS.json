@@ -2,11 +2,11 @@
   "id": "0386_GeneralUserGS",
   "presetId": "0386",
   "bank": "GeneralUserGS",
-  "category": "Piano",
-  "instrument": "Electric Grand Piano",
+  "category": "Bass",
+  "instrument": "Synth Bass 1",
   "serie": 6,
-  "channel": 1,
-  "number": 2,
+  "channel": 2,
+  "number": 39,
   "zones": [
     {
       "midi": 38,

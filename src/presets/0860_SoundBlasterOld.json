@@ -2,11 +2,11 @@
   "id": "0860_SoundBlasterOld",
   "presetId": "0860",
   "bank": "SoundBlasterOld",
-  "category": "Synth Pad",
-  "instrument": "Pad 5 (bowed glass)",
+  "category": "Synth Lead",
+  "instrument": "Lead 7 (fifths)",
   "serie": 0,
-  "channel": 3,
-  "number": 92,
+  "channel": 4,
+  "number": 87,
   "zones": [
     {
       "midi": 86,

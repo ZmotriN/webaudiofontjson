@@ -2,11 +2,11 @@
   "id": "0130_SBLive",
   "presetId": "0130",
   "bank": "SBLive",
-  "category": "Piano",
-  "instrument": "Electric Grand Piano",
+  "category": "Chromatic Percussion",
+  "instrument": "Xylophone",
   "serie": 0,
   "channel": 1,
-  "number": 2,
+  "number": 14,
   "zones": [
     {
       "midi": 13,

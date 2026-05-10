@@ -2,11 +2,11 @@
   "id": "0370_GeneralUserGS",
   "presetId": "0370",
   "bank": "GeneralUserGS",
-  "category": "Percussive",
-  "instrument": "Steel Drums",
+  "category": "Bass",
+  "instrument": "Slap Bass 2",
   "serie": 0,
   "channel": 2,
-  "number": 114,
+  "number": 38,
   "zones": [
     {
       "midi": 37,

@@ -2,11 +2,11 @@
   "id": "0340_GeneralUserGS",
   "presetId": "0340",
   "bank": "GeneralUserGS",
-  "category": "Synth Lead",
-  "instrument": "Lead 5 (charang)",
+  "category": "Bass",
+  "instrument": "Electric Bass (picked)",
   "serie": 0,
-  "channel": 4,
-  "number": 84,
+  "channel": 2,
+  "number": 35,
   "zones": [
     {
       "midi": 34,

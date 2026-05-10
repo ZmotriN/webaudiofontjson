@@ -2,11 +2,11 @@
   "id": "0830_GeneralUserGS",
   "presetId": "0830",
   "bank": "GeneralUserGS",
-  "category": "Brass",
-  "instrument": "Synth Brass 1",
+  "category": "Synth Lead",
+  "instrument": "Lead 4 (chiff)",
   "serie": 0,
-  "channel": 3,
-  "number": 62,
+  "channel": 4,
+  "number": 84,
   "zones": [
     {
       "midi": 83,

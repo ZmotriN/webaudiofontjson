@@ -2,11 +2,11 @@
   "id": "0441_GeneralUserGS",
   "presetId": "0441",
   "bank": "GeneralUserGS",
-  "category": "Brass",
-  "instrument": "Trombone",
+  "category": "Strings",
+  "instrument": "Tremolo Strings",
   "serie": 1,
   "channel": 3,
-  "number": 57,
+  "number": 45,
   "zones": [
     {
       "midi": 44,

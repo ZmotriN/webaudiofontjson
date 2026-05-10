@@ -2,11 +2,11 @@
   "id": "0901_FluidR3",
   "presetId": "0901",
   "bank": "FluidR3",
-  "category": "Piano",
-  "instrument": "Electric Piano 2",
+  "category": "Synth Pad",
+  "instrument": "Pad 3 (polysynth)",
   "serie": 1,
-  "channel": 1,
-  "number": 5,
+  "channel": 3,
+  "number": 91,
   "zones": [
     {
       "midi": 90,

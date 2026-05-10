@@ -2,11 +2,11 @@
   "id": "0950_Chaos",
   "presetId": "0950",
   "bank": "Chaos",
-  "category": "Ensemble",
-  "instrument": "Synth Voice",
+  "category": "Synth Pad",
+  "instrument": "Pad 8 (sweep)",
   "serie": 0,
   "channel": 3,
-  "number": 54,
+  "number": 96,
   "zones": [
     {
       "midi": 95,

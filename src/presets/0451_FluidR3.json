@@ -2,11 +2,11 @@
   "id": "0451_FluidR3",
   "presetId": "0451",
   "bank": "FluidR3",
-  "category": "Reed",
-  "instrument": "Baritone Sax",
+  "category": "Strings",
+  "instrument": "Pizzicato Strings",
   "serie": 1,
-  "channel": 1,
-  "number": 67,
+  "channel": 3,
+  "number": 46,
   "zones": [
     {
       "midi": 45,

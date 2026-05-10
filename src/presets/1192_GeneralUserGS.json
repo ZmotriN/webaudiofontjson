@@ -2,11 +2,11 @@
   "id": "1192_GeneralUserGS",
   "presetId": "1192",
   "bank": "GeneralUserGS",
-  "category": "Strings",
-  "instrument": "Violin",
+  "category": "Percussive",
+  "instrument": "Reverse Cymbal",
   "serie": 2,
-  "channel": 3,
-  "number": 40,
+  "channel": 2,
+  "number": 120,
   "zones": [
     {
       "midi": 119,

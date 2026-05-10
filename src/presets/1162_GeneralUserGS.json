@@ -2,11 +2,11 @@
   "id": "1162_GeneralUserGS",
   "presetId": "1162",
   "bank": "GeneralUserGS",
-  "category": "Chromatic Percussion",
-  "instrument": "Music Box",
+  "category": "Percussive",
+  "instrument": "Taiko Drum",
   "serie": 2,
-  "channel": 1,
-  "number": 10,
+  "channel": 2,
+  "number": 117,
   "zones": [
     {
       "midi": 116,

@@ -2,11 +2,11 @@
   "id": "0701_FluidR3",
   "presetId": "0701",
   "bank": "FluidR3",
-  "category": "Brass",
-  "instrument": "Brass Section",
+  "category": "Reed",
+  "instrument": "Bassoon",
   "serie": 1,
-  "channel": 3,
-  "number": 61,
+  "channel": 1,
+  "number": 71,
   "zones": [
     {
       "midi": 70,

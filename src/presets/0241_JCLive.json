@@ -2,11 +2,11 @@
   "id": "0241_JCLive",
   "presetId": "0241",
   "bank": "JCLive",
-  "category": "Percussive",
-  "instrument": "Agogô",
+  "category": "Guitar",
+  "instrument": "Acoustic Guitar (nylon)",
   "serie": 1,
-  "channel": 2,
-  "number": 113,
+  "channel": 4,
+  "number": 25,
   "zones": [
     {
       "midi": 24,

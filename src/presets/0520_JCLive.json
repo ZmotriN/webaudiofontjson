@@ -2,11 +2,11 @@
   "id": "0520_JCLive",
   "presetId": "0520",
   "bank": "JCLive",
-  "category": "Chromatic Percussion",
-  "instrument": "Celesta",
+  "category": "Ensemble",
+  "instrument": "Choir Aahs",
   "serie": 0,
-  "channel": 1,
-  "number": 8,
+  "channel": 3,
+  "number": 53,
   "zones": [
     {
       "midi": 52,

@@ -2,11 +2,11 @@
   "id": "1130_Aspirin",
   "presetId": "1130",
   "bank": "Aspirin",
-  "category": "Ethnic",
-  "instrument": "Shamisen",
+  "category": "Percussive",
+  "instrument": "Agogô",
   "serie": 0,
-  "channel": 4,
-  "number": 106,
+  "channel": 2,
+  "number": 114,
   "zones": [
     {
       "midi": 113,

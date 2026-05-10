@@ -2,11 +2,11 @@
   "id": "04817_GeneralUserGS",
   "presetId": "04817",
   "bank": "GeneralUserGS",
-  "category": "Synth Lead",
-  "instrument": "Lead 2 (sawtooth)",
-  "serie": 1,
-  "channel": 4,
-  "number": 81,
+  "category": "Ensemble",
+  "instrument": "String Ensemble 1",
+  "serie": 17,
+  "channel": 3,
+  "number": 49,
   "zones": [
     {
       "midi": 48,

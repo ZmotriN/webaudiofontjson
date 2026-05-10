@@ -2,11 +2,11 @@
   "id": "0615_GeneralUserGS",
   "presetId": "0615",
   "bank": "GeneralUserGS",
-  "category": "Synth Effects",
-  "instrument": "FX 8 (sci-fi)",
+  "category": "Brass",
+  "instrument": "Brass Section",
   "serie": 5,
   "channel": 3,
-  "number": 103,
+  "number": 62,
   "zones": [
     {
       "midi": 61,

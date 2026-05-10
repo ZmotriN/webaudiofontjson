@@ -2,11 +2,11 @@
   "id": "0460_FluidR3",
   "presetId": "0460",
   "bank": "FluidR3",
-  "category": "Pipe",
-  "instrument": "Blown bottle",
+  "category": "Strings",
+  "instrument": "Orchestral Harp",
   "serie": 0,
-  "channel": 1,
-  "number": 76,
+  "channel": 3,
+  "number": 47,
   "zones": [
     {
       "midi": 46,

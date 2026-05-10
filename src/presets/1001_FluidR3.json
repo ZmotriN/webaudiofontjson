@@ -2,11 +2,11 @@
   "id": "1001_FluidR3",
   "presetId": "1001",
   "bank": "FluidR3",
-  "category": "Ethnic",
-  "instrument": "Banjo",
+  "category": "Synth Effects",
+  "instrument": "FX 5 (brightness)",
   "serie": 1,
-  "channel": 4,
-  "number": 105,
+  "channel": 3,
+  "number": 101,
   "zones": [
     {
       "midi": 100,

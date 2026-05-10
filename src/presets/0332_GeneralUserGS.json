@@ -2,11 +2,11 @@
   "id": "0332_GeneralUserGS",
   "presetId": "0332",
   "bank": "GeneralUserGS",
-  "category": "Pipe",
-  "instrument": "Blown bottle",
+  "category": "Bass",
+  "instrument": "Electric Bass (finger)",
   "serie": 2,
-  "channel": 1,
-  "number": 76,
+  "channel": 2,
+  "number": 34,
   "zones": [
     {
       "midi": 33,

@@ -2,11 +2,11 @@
   "id": "0240_Chaos",
   "presetId": "0240",
   "bank": "Chaos",
-  "category": "Percussive",
-  "instrument": "Tinkle Bell",
+  "category": "Guitar",
+  "instrument": "Acoustic Guitar (nylon)",
   "serie": 0,
-  "channel": 2,
-  "number": 112,
+  "channel": 4,
+  "number": 25,
   "zones": [
     {
       "midi": 24,

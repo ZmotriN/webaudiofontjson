@@ -2,11 +2,11 @@
   "id": "0030_SoundBlasterOld",
   "presetId": "0030",
   "bank": "SoundBlasterOld",
-  "category": "Guitar",
-  "instrument": "Distortion Guitar",
+  "category": "Piano",
+  "instrument": "Honky-tonk Piano",
   "serie": 0,
-  "channel": 4,
-  "number": 30,
+  "channel": 1,
+  "number": 4,
   "zones": [
     {
       "midi": 3,

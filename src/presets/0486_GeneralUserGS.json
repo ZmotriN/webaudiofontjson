@@ -2,11 +2,11 @@
   "id": "0486_GeneralUserGS",
   "presetId": "0486",
   "bank": "GeneralUserGS",
-  "category": "Synth Effects",
-  "instrument": "FX 7 (echoes)",
+  "category": "Ensemble",
+  "instrument": "String Ensemble 1",
   "serie": 6,
   "channel": 3,
-  "number": 102,
+  "number": 49,
   "zones": [
     {
       "midi": 48,

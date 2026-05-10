@@ -2,11 +2,11 @@
   "id": "0930_Chaos",
   "presetId": "0930",
   "bank": "Chaos",
-  "category": "Bass",
-  "instrument": "Electric Bass (picked)",
+  "category": "Synth Pad",
+  "instrument": "Pad 6 (metallic)",
   "serie": 0,
-  "channel": 2,
-  "number": 34,
+  "channel": 3,
+  "number": 94,
   "zones": [
     {
       "midi": 93,

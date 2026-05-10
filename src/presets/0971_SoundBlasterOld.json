@@ -2,11 +2,11 @@
   "id": "0971_SoundBlasterOld",
   "presetId": "0971",
   "bank": "SoundBlasterOld",
-  "category": "Pipe",
-  "instrument": "Pan Flute",
+  "category": "Synth Effects",
+  "instrument": "FX 2 (soundtrack)",
   "serie": 1,
-  "channel": 1,
-  "number": 75,
+  "channel": 3,
+  "number": 98,
   "zones": [
     {
       "midi": 97,

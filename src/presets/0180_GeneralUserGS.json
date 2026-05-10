@@ -2,11 +2,11 @@
   "id": "0180_GeneralUserGS",
   "presetId": "0180",
   "bank": "GeneralUserGS",
-  "category": "Ensemble",
-  "instrument": "Choir Aahs",
+  "category": "Organ",
+  "instrument": "Rock Organ",
   "serie": 0,
-  "channel": 3,
-  "number": 52,
+  "channel": 1,
+  "number": 19,
   "zones": [
     {
       "midi": 18,

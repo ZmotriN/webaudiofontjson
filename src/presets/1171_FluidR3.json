@@ -2,11 +2,11 @@
   "id": "1171_FluidR3",
   "presetId": "1171",
   "bank": "FluidR3",
-  "category": "Organ",
-  "instrument": "Church Organ",
+  "category": "Percussive",
+  "instrument": "Melodic Tom",
   "serie": 1,
-  "channel": 1,
-  "number": 19,
+  "channel": 2,
+  "number": 118,
   "zones": [
     {
       "midi": 117,

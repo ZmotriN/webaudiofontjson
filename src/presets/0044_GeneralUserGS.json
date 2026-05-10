@@ -2,11 +2,11 @@
   "id": "0044_GeneralUserGS",
   "presetId": "0044",
   "bank": "GeneralUserGS",
-  "category": "Strings",
-  "instrument": "Tremolo Strings",
+  "category": "Piano",
+  "instrument": "Electric Piano 1",
   "serie": 4,
-  "channel": 3,
-  "number": 44,
+  "channel": 1,
+  "number": 5,
   "zones": [
     {
       "midi": 4,

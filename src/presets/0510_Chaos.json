@@ -2,11 +2,11 @@
   "id": "0510_Chaos",
   "presetId": "0510",
   "bank": "Chaos",
-  "category": "Sound Effects",
-  "instrument": "Applause",
+  "category": "Ensemble",
+  "instrument": "Synth Strings 2",
   "serie": 0,
-  "channel": 1,
-  "number": 126,
+  "channel": 3,
+  "number": 52,
   "zones": [
     {
       "midi": 51,

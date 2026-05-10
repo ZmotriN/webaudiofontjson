@@ -2,11 +2,11 @@
   "id": "1181_SoundBlasterOld",
   "presetId": "1181",
   "bank": "SoundBlasterOld",
-  "category": "Guitar",
-  "instrument": "Overdriven Guitar",
+  "category": "Percussive",
+  "instrument": "Synth Drum",
   "serie": 1,
-  "channel": 4,
-  "number": 29,
+  "channel": 2,
+  "number": 119,
   "zones": [
     {
       "midi": 118,

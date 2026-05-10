@@ -2,11 +2,11 @@
   "id": "0151_FluidR3",
   "presetId": "0151",
   "bank": "FluidR3",
-  "category": "Organ",
-  "instrument": "Bandoneon",
+  "category": "Chromatic Percussion",
+  "instrument": "Dulcimer",
   "serie": 1,
   "channel": 1,
-  "number": 23,
+  "number": 16,
   "zones": [
     {
       "midi": 15,

@@ -2,11 +2,11 @@
   "id": "0262_Stratocaster",
   "presetId": "0262",
   "bank": "Stratocaster",
-  "category": "Piano",
-  "instrument": "Harpsichord",
+  "category": "Guitar",
+  "instrument": "Electric Guitar (jazz)",
   "serie": 2,
-  "channel": 1,
-  "number": 6,
+  "channel": 4,
+  "number": 27,
   "zones": [
     {
       "midi": 26,

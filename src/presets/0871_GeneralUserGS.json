@@ -2,11 +2,11 @@
   "id": "0871_GeneralUserGS",
   "presetId": "0871",
   "bank": "GeneralUserGS",
-  "category": "Synth Effects",
-  "instrument": "FX 8 (sci-fi)",
+  "category": "Synth Lead",
+  "instrument": "Lead 8 (bass and lead)",
   "serie": 1,
-  "channel": 3,
-  "number": 103,
+  "channel": 4,
+  "number": 88,
   "zones": [
     {
       "midi": 87,

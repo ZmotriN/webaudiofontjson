@@ -2,11 +2,11 @@
   "id": "1012_Aspirin",
   "presetId": "1012",
   "bank": "Aspirin",
-  "category": "Percussive",
-  "instrument": "Taiko Drum",
+  "category": "Synth Effects",
+  "instrument": "FX 6 (goblins)",
   "serie": 2,
-  "channel": 2,
-  "number": 116,
+  "channel": 3,
+  "number": 102,
   "zones": [
     {
       "midi": 101,

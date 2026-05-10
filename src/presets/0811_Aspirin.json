@@ -2,11 +2,11 @@
   "id": "0811_Aspirin",
   "presetId": "0811",
   "bank": "Aspirin",
-  "category": "Strings",
-  "instrument": "Contrabass",
+  "category": "Synth Lead",
+  "instrument": "Lead 2 (sawtooth)",
   "serie": 1,
-  "channel": 3,
-  "number": 43,
+  "channel": 4,
+  "number": 82,
   "zones": [
     {
       "midi": 81,

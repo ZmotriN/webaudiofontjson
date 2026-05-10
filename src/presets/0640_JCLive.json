@@ -2,11 +2,11 @@
   "id": "0640_JCLive",
   "presetId": "0640",
   "bank": "JCLive",
-  "category": "Piano",
-  "instrument": "Acoustic Grand Piano",
+  "category": "Reed",
+  "instrument": "Soprano Sax",
   "serie": 0,
   "channel": 1,
-  "number": 0,
+  "number": 65,
   "zones": [
     {
       "midi": 64,

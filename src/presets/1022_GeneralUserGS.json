@@ -2,11 +2,11 @@
   "id": "1022_GeneralUserGS",
   "presetId": "1022",
   "bank": "GeneralUserGS",
-  "category": "Sound Effects",
-  "instrument": "Applause",
+  "category": "Synth Effects",
+  "instrument": "FX 7 (echoes)",
   "serie": 2,
-  "channel": 1,
-  "number": 126,
+  "channel": 3,
+  "number": 103,
   "zones": [
     {
       "midi": 102,

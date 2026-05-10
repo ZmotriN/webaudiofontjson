@@ -2,11 +2,11 @@
   "id": "1270_Chaos",
   "presetId": "1270",
   "bank": "Chaos",
-  "category": "Percussive",
-  "instrument": "Synth Drum",
+  "category": "Sound Effects",
+  "instrument": "Gunshot",
   "serie": 0,
-  "channel": 2,
-  "number": 118,
+  "channel": 1,
+  "number": 128,
   "zones": [
     {
       "midi": 127,

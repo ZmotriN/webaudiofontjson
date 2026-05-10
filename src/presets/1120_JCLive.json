@@ -2,11 +2,11 @@
   "id": "1120_JCLive",
   "presetId": "1120",
   "bank": "JCLive",
-  "category": "Synth Effects",
-  "instrument": "FX 1 (rain)",
+  "category": "Percussive",
+  "instrument": "Tinkle Bell",
   "serie": 0,
-  "channel": 3,
-  "number": 96,
+  "channel": 2,
+  "number": 113,
   "zones": [
     {
       "midi": 112,

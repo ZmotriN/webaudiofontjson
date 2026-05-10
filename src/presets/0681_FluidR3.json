@@ -2,11 +2,11 @@
   "id": "0681_FluidR3",
   "presetId": "0681",
   "bank": "FluidR3",
-  "category": "Strings",
-  "instrument": "Viola",
+  "category": "Reed",
+  "instrument": "Oboe",
   "serie": 1,
-  "channel": 3,
-  "number": 41,
+  "channel": 1,
+  "number": 69,
   "zones": [
     {
       "midi": 68,

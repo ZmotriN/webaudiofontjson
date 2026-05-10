@@ -2,11 +2,11 @@
   "id": "0322_GeneralUserGS",
   "presetId": "0322",
   "bank": "GeneralUserGS",
-  "category": "Reed",
-  "instrument": "Tenor Sax",
+  "category": "Bass",
+  "instrument": "Acoustic Bass",
   "serie": 2,
-  "channel": 1,
-  "number": 66,
+  "channel": 2,
+  "number": 33,
   "zones": [
     {
       "midi": 32,

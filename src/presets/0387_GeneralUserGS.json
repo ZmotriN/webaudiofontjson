@@ -2,11 +2,11 @@
   "id": "0387_GeneralUserGS",
   "presetId": "0387",
   "bank": "GeneralUserGS",
-  "category": "Piano",
-  "instrument": "Honky-tonk Piano",
+  "category": "Bass",
+  "instrument": "Synth Bass 1",
   "serie": 7,
-  "channel": 1,
-  "number": 3,
+  "channel": 2,
+  "number": 39,
   "zones": [
     {
       "midi": 38,

@@ -2,11 +2,11 @@
   "id": "0480_Chaos",
   "presetId": "0480",
   "bank": "Chaos",
-  "category": "Synth Effects",
-  "instrument": "FX 1 (rain)",
+  "category": "Ensemble",
+  "instrument": "String Ensemble 1",
   "serie": 0,
   "channel": 3,
-  "number": 96,
+  "number": 49,
   "zones": [
     {
       "midi": 48,

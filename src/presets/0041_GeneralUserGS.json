@@ -2,11 +2,11 @@
   "id": "0041_GeneralUserGS",
   "presetId": "0041",
   "bank": "GeneralUserGS",
-  "category": "Strings",
-  "instrument": "Viola",
+  "category": "Piano",
+  "instrument": "Electric Piano 1",
   "serie": 1,
-  "channel": 3,
-  "number": 41,
+  "channel": 1,
+  "number": 5,
   "zones": [
     {
       "midi": 4,

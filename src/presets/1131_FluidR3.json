@@ -2,11 +2,11 @@
   "id": "1131_FluidR3",
   "presetId": "1131",
   "bank": "FluidR3",
-  "category": "Ethnic",
-  "instrument": "Koto",
+  "category": "Percussive",
+  "instrument": "Agogô",
   "serie": 1,
-  "channel": 4,
-  "number": 107,
+  "channel": 2,
+  "number": 114,
   "zones": [
     {
       "midi": 113,

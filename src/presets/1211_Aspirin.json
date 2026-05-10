@@ -2,11 +2,11 @@
   "id": "1211_Aspirin",
   "presetId": "1211",
   "bank": "Aspirin",
-  "category": "Brass",
-  "instrument": "Muted Trumpet",
+  "category": "Sound Effects",
+  "instrument": "Breath Noise",
   "serie": 1,
-  "channel": 3,
-  "number": 59,
+  "channel": 1,
+  "number": 122,
   "zones": [
     {
       "midi": 121,

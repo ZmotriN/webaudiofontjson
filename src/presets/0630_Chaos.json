@@ -2,11 +2,11 @@
   "id": "0630_Chaos",
   "presetId": "0630",
   "bank": "Chaos",
-  "category": "Percussive",
-  "instrument": "Synth Drum",
+  "category": "Brass",
+  "instrument": "Synth Brass 2",
   "serie": 0,
-  "channel": 2,
-  "number": 118,
+  "channel": 3,
+  "number": 64,
   "zones": [
     {
       "midi": 63,

@@ -2,11 +2,11 @@
   "id": "0640_Aspirin",
   "presetId": "0640",
   "bank": "Aspirin",
-  "category": "Piano",
-  "instrument": "Acoustic Grand Piano",
+  "category": "Reed",
+  "instrument": "Soprano Sax",
   "serie": 0,
   "channel": 1,
-  "number": 0,
+  "number": 65,
   "zones": [
     {
       "midi": 64,

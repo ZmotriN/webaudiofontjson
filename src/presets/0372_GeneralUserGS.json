@@ -2,11 +2,11 @@
   "id": "0372_GeneralUserGS",
   "presetId": "0372",
   "bank": "GeneralUserGS",
-  "category": "Percussive",
-  "instrument": "Taiko Drum",
+  "category": "Bass",
+  "instrument": "Slap Bass 2",
   "serie": 2,
   "channel": 2,
-  "number": 116,
+  "number": 38,
   "zones": [
     {
       "midi": 37,

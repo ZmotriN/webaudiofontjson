@@ -2,11 +2,11 @@
   "id": "0614_GeneralUserGS",
   "presetId": "0614",
   "bank": "GeneralUserGS",
-  "category": "Synth Effects",
-  "instrument": "FX 7 (echoes)",
+  "category": "Brass",
+  "instrument": "Brass Section",
   "serie": 4,
   "channel": 3,
-  "number": 102,
+  "number": 62,
   "zones": [
     {
       "midi": 61,

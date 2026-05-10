@@ -2,11 +2,11 @@
   "id": "0440_Chaos",
   "presetId": "0440",
   "bank": "Chaos",
-  "category": "Brass",
-  "instrument": "Trumpet",
+  "category": "Strings",
+  "instrument": "Tremolo Strings",
   "serie": 0,
   "channel": 3,
-  "number": 56,
+  "number": 45,
   "zones": [
     {
       "midi": 44,

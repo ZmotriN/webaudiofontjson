@@ -2,11 +2,11 @@
   "id": "0531_GeneralUserGS",
   "presetId": "0531",
   "bank": "GeneralUserGS",
-  "category": "Organ",
-  "instrument": "Church Organ",
+  "category": "Ensemble",
+  "instrument": "Voice Oohs",
   "serie": 1,
-  "channel": 1,
-  "number": 19,
+  "channel": 3,
+  "number": 54,
   "zones": [
     {
       "midi": 53,

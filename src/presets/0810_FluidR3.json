@@ -2,11 +2,11 @@
   "id": "0810_FluidR3",
   "presetId": "0810",
   "bank": "FluidR3",
-  "category": "Strings",
-  "instrument": "Cello",
+  "category": "Synth Lead",
+  "instrument": "Lead 2 (sawtooth)",
   "serie": 0,
-  "channel": 3,
-  "number": 42,
+  "channel": 4,
+  "number": 82,
   "zones": [
     {
       "midi": 81,

@@ -2,11 +2,11 @@
   "id": "0052_GeneralUserGS",
   "presetId": "0052",
   "bank": "GeneralUserGS",
-  "category": "Ensemble",
-  "instrument": "Choir Aahs",
+  "category": "Piano",
+  "instrument": "Electric Piano 2",
   "serie": 2,
-  "channel": 3,
-  "number": 52,
+  "channel": 1,
+  "number": 6,
   "zones": [
     {
       "midi": 5,

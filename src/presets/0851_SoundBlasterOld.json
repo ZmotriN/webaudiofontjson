@@ -3,10 +3,10 @@
   "presetId": "0851",
   "bank": "SoundBlasterOld",
   "category": "Synth Lead",
-  "instrument": "Lead 4 (chiff)",
+  "instrument": "Lead 6 (voice)",
   "serie": 1,
   "channel": 4,
-  "number": 83,
+  "number": 86,
   "zones": [
     {
       "midi": 85,

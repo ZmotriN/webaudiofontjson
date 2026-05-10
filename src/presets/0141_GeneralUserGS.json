@@ -3,10 +3,10 @@
   "presetId": "0141",
   "bank": "GeneralUserGS",
   "category": "Chromatic Percussion",
-  "instrument": "Xylophone",
+  "instrument": "Tubular Bells",
   "serie": 1,
   "channel": 1,
-  "number": 13,
+  "number": 15,
   "zones": [
     {
       "midi": 14,

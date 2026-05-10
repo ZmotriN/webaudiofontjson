@@ -2,11 +2,11 @@
   "id": "1151_FluidR3",
   "presetId": "1151",
   "bank": "FluidR3",
-  "category": "Sound Effects",
-  "instrument": "Gunshot",
+  "category": "Percussive",
+  "instrument": "Woodblock",
   "serie": 1,
-  "channel": 1,
-  "number": 127,
+  "channel": 2,
+  "number": 116,
   "zones": [
     {
       "midi": 115,

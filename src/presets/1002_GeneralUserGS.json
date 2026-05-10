@@ -2,11 +2,11 @@
   "id": "1002_GeneralUserGS",
   "presetId": "1002",
   "bank": "GeneralUserGS",
-  "category": "Ethnic",
-  "instrument": "Shamisen",
+  "category": "Synth Effects",
+  "instrument": "FX 5 (brightness)",
   "serie": 2,
-  "channel": 4,
-  "number": 106,
+  "channel": 3,
+  "number": 101,
   "zones": [
     {
       "midi": 100,

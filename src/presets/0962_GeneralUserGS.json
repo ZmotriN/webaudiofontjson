@@ -2,11 +2,11 @@
   "id": "0962_GeneralUserGS",
   "presetId": "0962",
   "bank": "GeneralUserGS",
-  "category": "Reed",
-  "instrument": "Tenor Sax",
+  "category": "Synth Effects",
+  "instrument": "FX 1 (rain)",
   "serie": 2,
-  "channel": 1,
-  "number": 66,
+  "channel": 3,
+  "number": 97,
   "zones": [
     {
       "midi": 96,

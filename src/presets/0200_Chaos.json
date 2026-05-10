@@ -2,11 +2,11 @@
   "id": "0200_Chaos",
   "presetId": "0200",
   "bank": "Chaos",
-  "category": "Pipe",
-  "instrument": "Piccolo",
+  "category": "Organ",
+  "instrument": "Reed Organ",
   "serie": 0,
   "channel": 1,
-  "number": 72,
+  "number": 21,
   "zones": [
     {
       "midi": 20,

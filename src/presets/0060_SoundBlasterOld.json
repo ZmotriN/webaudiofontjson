@@ -2,11 +2,11 @@
   "id": "0060_SoundBlasterOld",
   "presetId": "0060",
   "bank": "SoundBlasterOld",
-  "category": "Brass",
-  "instrument": "French Horn",
+  "category": "Piano",
+  "instrument": "Harpsichord",
   "serie": 0,
-  "channel": 3,
-  "number": 60,
+  "channel": 1,
+  "number": 7,
   "zones": [
     {
       "midi": 6,

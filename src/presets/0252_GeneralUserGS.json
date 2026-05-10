@@ -2,11 +2,11 @@
   "id": "0252_GeneralUserGS",
   "presetId": "0252",
   "bank": "GeneralUserGS",
-  "category": "Sound Effects",
-  "instrument": "Telephone Ring",
+  "category": "Guitar",
+  "instrument": "Acoustic Guitar (steel)",
   "serie": 2,
-  "channel": 1,
-  "number": 124,
+  "channel": 4,
+  "number": 26,
   "zones": [
     {
       "midi": 25,

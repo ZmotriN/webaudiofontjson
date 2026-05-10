@@ -2,11 +2,11 @@
   "id": "0420_JCLive",
   "presetId": "0420",
   "bank": "JCLive",
-  "category": "Bass",
-  "instrument": "Slap Bass 1",
+  "category": "Strings",
+  "instrument": "Cello",
   "serie": 0,
-  "channel": 2,
-  "number": 36,
+  "channel": 3,
+  "number": 43,
   "zones": [
     {
       "midi": 42,

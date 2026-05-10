@@ -2,11 +2,11 @@
   "id": "0720_Chaos",
   "presetId": "0720",
   "bank": "Chaos",
-  "category": "Synth Lead",
-  "instrument": "Lead 1 (square)",
+  "category": "Pipe",
+  "instrument": "Piccolo",
   "serie": 0,
-  "channel": 4,
-  "number": 80,
+  "channel": 1,
+  "number": 73,
   "zones": [
     {
       "midi": 72,

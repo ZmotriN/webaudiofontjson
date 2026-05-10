@@ -2,11 +2,11 @@
   "id": "0040_FluidR3",
   "presetId": "0040",
   "bank": "FluidR3",
-  "category": "Strings",
-  "instrument": "Violin",
+  "category": "Piano",
+  "instrument": "Electric Piano 1",
   "serie": 0,
-  "channel": 3,
-  "number": 40,
+  "channel": 1,
+  "number": 5,
   "zones": [
     {
       "midi": 4,

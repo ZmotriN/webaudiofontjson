@@ -2,11 +2,11 @@
   "id": "1201_GeneralUserGS",
   "presetId": "1201",
   "bank": "GeneralUserGS",
-  "category": "Ensemble",
-  "instrument": "String Ensemble 2",
+  "category": "Sound Effects",
+  "instrument": "Guitar Fret Noise",
   "serie": 1,
-  "channel": 3,
-  "number": 49,
+  "channel": 1,
+  "number": 121,
   "zones": [
     {
       "midi": 120,

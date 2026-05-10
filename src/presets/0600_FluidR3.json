@@ -2,11 +2,11 @@
   "id": "0600_FluidR3",
   "presetId": "0600",
   "bank": "FluidR3",
-  "category": "Synth Pad",
-  "instrument": "Pad 1 (new age)",
+  "category": "Brass",
+  "instrument": "French Horn",
   "serie": 0,
   "channel": 3,
-  "number": 88,
+  "number": 61,
   "zones": [
     {
       "midi": 60,

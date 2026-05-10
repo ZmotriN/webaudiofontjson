@@ -2,11 +2,11 @@
   "id": "0781_GeneralUserGS",
   "presetId": "0781",
   "bank": "GeneralUserGS",
-  "category": "Chromatic Percussion",
-  "instrument": "Xylophone",
+  "category": "Pipe",
+  "instrument": "Whistle",
   "serie": 1,
   "channel": 1,
-  "number": 13,
+  "number": 79,
   "zones": [
     {
       "midi": 78,

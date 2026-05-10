@@ -2,11 +2,11 @@
   "id": "0390_GeneralUserGS",
   "presetId": "0390",
   "bank": "GeneralUserGS",
-  "category": "Piano",
-  "instrument": "Harpsichord",
+  "category": "Bass",
+  "instrument": "Synth Bass 2",
   "serie": 0,
-  "channel": 1,
-  "number": 6,
+  "channel": 2,
+  "number": 40,
   "zones": [
     {
       "midi": 39,

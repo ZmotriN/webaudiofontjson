@@ -2,11 +2,11 @@
   "id": "1070_FluidR3",
   "presetId": "1070",
   "bank": "FluidR3",
-  "category": "Strings",
-  "instrument": "Orchestral Harp",
+  "category": "Ethnic",
+  "instrument": "Koto",
   "serie": 0,
-  "channel": 3,
-  "number": 46,
+  "channel": 4,
+  "number": 108,
   "zones": [
     {
       "midi": 107,

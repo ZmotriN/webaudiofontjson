@@ -2,11 +2,11 @@
   "id": "0530_FluidR3",
   "presetId": "0530",
   "bank": "FluidR3",
-  "category": "Organ",
-  "instrument": "Rock Organ",
+  "category": "Ensemble",
+  "instrument": "Voice Oohs",
   "serie": 0,
-  "channel": 1,
-  "number": 18,
+  "channel": 3,
+  "number": 54,
   "zones": [
     {
       "midi": 53,

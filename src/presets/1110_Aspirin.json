@@ -2,11 +2,11 @@
   "id": "1110_Aspirin",
   "presetId": "1110",
   "bank": "Aspirin",
-  "category": "Synth Lead",
-  "instrument": "Lead 7 (fifths)",
+  "category": "Ethnic",
+  "instrument": "Shanai",
   "serie": 0,
   "channel": 4,
-  "number": 86,
+  "number": 112,
   "zones": [
     {
       "midi": 111,

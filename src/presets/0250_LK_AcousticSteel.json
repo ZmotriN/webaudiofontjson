@@ -2,11 +2,11 @@
   "id": "0250_LK_AcousticSteel",
   "presetId": "0250",
   "bank": "LK_AcousticSteel",
-  "category": "Sound Effects",
-  "instrument": "Seashore",
+  "category": "Guitar",
+  "instrument": "Acoustic Guitar (steel)",
   "serie": 0,
-  "channel": 1,
-  "number": 122,
+  "channel": 4,
+  "number": 26,
   "zones": [
     {
       "midi": 25,

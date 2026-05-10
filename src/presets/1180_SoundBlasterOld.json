@@ -2,11 +2,11 @@
   "id": "1180_SoundBlasterOld",
   "presetId": "1180",
   "bank": "SoundBlasterOld",
-  "category": "Guitar",
-  "instrument": "Electric Guitar (muted)",
+  "category": "Percussive",
+  "instrument": "Synth Drum",
   "serie": 0,
-  "channel": 4,
-  "number": 28,
+  "channel": 2,
+  "number": 119,
   "zones": [
     {
       "midi": 118,

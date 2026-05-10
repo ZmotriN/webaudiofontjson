@@ -3,10 +3,10 @@
   "presetId": "0994",
   "bank": "JCLive",
   "category": "Synth Effects",
-  "instrument": "FX 3 (crystal)",
+  "instrument": "FX 4 (atmosphere)",
   "serie": 4,
   "channel": 3,
-  "number": 98,
+  "number": 100,
   "zones": [
     {
       "midi": 99,

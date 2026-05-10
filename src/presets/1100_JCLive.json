@@ -2,11 +2,11 @@
   "id": "1100_JCLive",
   "presetId": "1100",
   "bank": "JCLive",
-  "category": "Pipe",
-  "instrument": "Blown bottle",
+  "category": "Ethnic",
+  "instrument": "Fiddle",
   "serie": 0,
-  "channel": 1,
-  "number": 76,
+  "channel": 4,
+  "number": 111,
   "zones": [
     {
       "midi": 110,

@@ -2,11 +2,11 @@
   "id": "1170_JCLive",
   "presetId": "1170",
   "bank": "JCLive",
-  "category": "Organ",
-  "instrument": "Rock Organ",
+  "category": "Percussive",
+  "instrument": "Melodic Tom",
   "serie": 0,
-  "channel": 1,
-  "number": 18,
+  "channel": 2,
+  "number": 118,
   "zones": [
     {
       "midi": 117,

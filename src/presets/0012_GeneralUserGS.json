@@ -2,11 +2,11 @@
   "id": "0012_GeneralUserGS",
   "presetId": "0012",
   "bank": "GeneralUserGS",
-  "category": "Chromatic Percussion",
-  "instrument": "Marimba",
+  "category": "Piano",
+  "instrument": "Bright Acoustic Piano",
   "serie": 2,
   "channel": 1,
-  "number": 12,
+  "number": 2,
   "zones": [
     {
       "midi": 1,

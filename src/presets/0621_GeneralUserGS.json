@@ -2,11 +2,11 @@
   "id": "0621_GeneralUserGS",
   "presetId": "0621",
   "bank": "GeneralUserGS",
-  "category": "Ethnic",
-  "instrument": "Bag pipe",
+  "category": "Brass",
+  "instrument": "Synth Brass 1",
   "serie": 1,
-  "channel": 4,
-  "number": 109,
+  "channel": 3,
+  "number": 63,
   "zones": [
     {
       "midi": 62,

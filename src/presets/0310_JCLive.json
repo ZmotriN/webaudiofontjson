@@ -2,11 +2,11 @@
   "id": "0310_JCLive",
   "presetId": "0310",
   "bank": "JCLive",
-  "category": "Ensemble",
-  "instrument": "Synth Voice",
+  "category": "Guitar",
+  "instrument": "Guitar Harmonics",
   "serie": 0,
-  "channel": 3,
-  "number": 54,
+  "channel": 4,
+  "number": 32,
   "zones": [
     {
       "midi": 31,

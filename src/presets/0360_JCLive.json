@@ -2,11 +2,11 @@
   "id": "0360_JCLive",
   "presetId": "0360",
   "bank": "JCLive",
-  "category": "Ethnic",
-  "instrument": "Sitar",
+  "category": "Bass",
+  "instrument": "Slap Bass 1",
   "serie": 0,
-  "channel": 4,
-  "number": 104,
+  "channel": 2,
+  "number": 37,
   "zones": [
     {
       "midi": 36,

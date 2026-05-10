@@ -2,11 +2,11 @@
   "id": "0021_Aspirin",
   "presetId": "0021",
   "bank": "Aspirin",
-  "category": "Organ",
-  "instrument": "Accordion",
+  "category": "Piano",
+  "instrument": "Electric Grand Piano",
   "serie": 1,
   "channel": 1,
-  "number": 21,
+  "number": 3,
   "zones": [
     {
       "midi": 2,

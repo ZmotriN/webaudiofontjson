@@ -2,11 +2,11 @@
   "id": "0482_GeneralUserGS",
   "presetId": "0482",
   "bank": "GeneralUserGS",
-  "category": "Synth Effects",
-  "instrument": "FX 3 (crystal)",
+  "category": "Ensemble",
+  "instrument": "String Ensemble 1",
   "serie": 2,
   "channel": 3,
-  "number": 98,
+  "number": 49,
   "zones": [
     {
       "midi": 48,

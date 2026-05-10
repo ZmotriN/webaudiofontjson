@@ -2,11 +2,11 @@
   "id": "0981_Aspirin",
   "presetId": "0981",
   "bank": "Aspirin",
-  "category": "Synth Lead",
-  "instrument": "Lead 6 (voice)",
+  "category": "Synth Effects",
+  "instrument": "FX 3 (crystal)",
   "serie": 1,
-  "channel": 4,
-  "number": 85,
+  "channel": 3,
+  "number": 99,
   "zones": [
     {
       "midi": 98,

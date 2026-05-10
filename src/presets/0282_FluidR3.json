@@ -3,10 +3,10 @@
   "presetId": "0282",
   "bank": "FluidR3",
   "category": "Guitar",
-  "instrument": "Electric Guitar (jazz)",
+  "instrument": "Electric Guitar (muted)",
   "serie": 2,
   "channel": 4,
-  "number": 26,
+  "number": 29,
   "zones": [
     {
       "midi": 28,

@@ -2,11 +2,11 @@
   "id": "0040_Aspirin",
   "presetId": "0040",
   "bank": "Aspirin",
-  "category": "Strings",
-  "instrument": "Violin",
+  "category": "Piano",
+  "instrument": "Electric Piano 1",
   "serie": 0,
-  "channel": 3,
-  "number": 40,
+  "channel": 1,
+  "number": 5,
   "zones": [
     {
       "midi": 4,

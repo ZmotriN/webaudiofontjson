@@ -2,11 +2,11 @@
   "id": "0690_Aspirin",
   "presetId": "0690",
   "bank": "Aspirin",
-  "category": "Ensemble",
-  "instrument": "Synth Strings 1",
+  "category": "Reed",
+  "instrument": "English Horn",
   "serie": 0,
-  "channel": 3,
-  "number": 50,
+  "channel": 1,
+  "number": 70,
   "zones": [
     {
       "midi": 69,

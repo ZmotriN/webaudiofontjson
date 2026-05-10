@@ -2,11 +2,11 @@
   "id": "0920_SBLive",
   "presetId": "0920",
   "bank": "SBLive",
-  "category": "Guitar",
-  "instrument": "Acoustic Guitar (nylon)",
+  "category": "Synth Pad",
+  "instrument": "Pad 5 (bowed glass)",
   "serie": 0,
-  "channel": 4,
-  "number": 24,
+  "channel": 3,
+  "number": 93,
   "zones": [
     {
       "midi": 92,

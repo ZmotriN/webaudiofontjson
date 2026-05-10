@@ -2,11 +2,11 @@
   "id": "1230_Aspirin",
   "presetId": "1230",
   "bank": "Aspirin",
-  "category": "Pipe",
-  "instrument": "Whistle",
+  "category": "Sound Effects",
+  "instrument": "Bird Tweet",
   "serie": 0,
   "channel": 1,
-  "number": 78,
+  "number": 124,
   "zones": [
     {
       "midi": 123,

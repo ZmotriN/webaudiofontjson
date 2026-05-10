@@ -2,11 +2,11 @@
   "id": "0045_GeneralUserGS",
   "presetId": "0045",
   "bank": "GeneralUserGS",
-  "category": "Strings",
-  "instrument": "Pizzicato Strings",
+  "category": "Piano",
+  "instrument": "Electric Piano 1",
   "serie": 5,
-  "channel": 3,
-  "number": 45,
+  "channel": 1,
+  "number": 5,
   "zones": [
     {
       "midi": 4,

@@ -2,11 +2,11 @@
   "id": "0110_Chaos",
   "presetId": "0110",
   "bank": "Chaos",
-  "category": "Ethnic",
-  "instrument": "Fiddle",
+  "category": "Chromatic Percussion",
+  "instrument": "Vibraphone",
   "serie": 0,
-  "channel": 4,
-  "number": 110,
+  "channel": 1,
+  "number": 12,
   "zones": [
     {
       "midi": 11,

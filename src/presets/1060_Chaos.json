@@ -2,11 +2,11 @@
   "id": "1060_Chaos",
   "presetId": "1060",
   "bank": "Chaos",
-  "category": "Bass",
-  "instrument": "Slap Bass 1",
+  "category": "Ethnic",
+  "instrument": "Shamisen",
   "serie": 0,
-  "channel": 2,
-  "number": 36,
+  "channel": 4,
+  "number": 107,
   "zones": [
     {
       "midi": 106,

@@ -2,11 +2,11 @@
   "id": "0551_FluidR3",
   "presetId": "0551",
   "bank": "FluidR3",
-  "category": "Bass",
-  "instrument": "Synth Bass 2",
+  "category": "Ensemble",
+  "instrument": "Orchestra Hit",
   "serie": 1,
-  "channel": 2,
-  "number": 39,
+  "channel": 3,
+  "number": 56,
   "zones": [
     {
       "midi": 55,

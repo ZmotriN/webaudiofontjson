@@ -2,11 +2,11 @@
   "id": "0020_SBLive",
   "presetId": "0020",
   "bank": "SBLive",
-  "category": "Organ",
-  "instrument": "Reed Organ",
+  "category": "Piano",
+  "instrument": "Electric Grand Piano",
   "serie": 0,
   "channel": 1,
-  "number": 20,
+  "number": 3,
   "zones": [
     {
       "midi": 2,

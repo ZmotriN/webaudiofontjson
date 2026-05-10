@@ -2,11 +2,11 @@
   "id": "0021_GeneralUserGS",
   "presetId": "0021",
   "bank": "GeneralUserGS",
-  "category": "Organ",
-  "instrument": "Accordion",
+  "category": "Piano",
+  "instrument": "Electric Grand Piano",
   "serie": 1,
   "channel": 1,
-  "number": 21,
+  "number": 3,
   "zones": [
     {
       "midi": 2,

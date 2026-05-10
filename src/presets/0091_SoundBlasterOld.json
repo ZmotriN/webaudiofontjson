@@ -2,11 +2,11 @@
   "id": "0091_SoundBlasterOld",
   "presetId": "0091",
   "bank": "SoundBlasterOld",
-  "category": "Synth Pad",
-  "instrument": "Pad 4 (choir)",
+  "category": "Chromatic Percussion",
+  "instrument": "Glockenspiel",
   "serie": 1,
-  "channel": 3,
-  "number": 91,
+  "channel": 1,
+  "number": 10,
   "zones": [
     {
       "midi": 9,

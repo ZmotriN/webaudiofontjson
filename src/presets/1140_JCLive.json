@@ -3,10 +3,10 @@
   "presetId": "1140",
   "bank": "JCLive",
   "category": "Percussive",
-  "instrument": "Taiko Drum",
+  "instrument": "Steel Drums",
   "serie": 0,
   "channel": 2,
-  "number": 116,
+  "number": 115,
   "zones": [
     {
       "midi": 114,

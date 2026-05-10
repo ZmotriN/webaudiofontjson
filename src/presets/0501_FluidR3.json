@@ -2,11 +2,11 @@
   "id": "0501_FluidR3",
   "presetId": "0501",
   "bank": "FluidR3",
-  "category": "Percussive",
-  "instrument": "Melodic Tom",
+  "category": "Ensemble",
+  "instrument": "Synth Strings 1",
   "serie": 1,
-  "channel": 2,
-  "number": 117,
+  "channel": 3,
+  "number": 51,
   "zones": [
     {
       "midi": 50,

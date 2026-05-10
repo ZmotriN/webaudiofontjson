@@ -2,11 +2,11 @@
   "id": "0603_GeneralUserGS",
   "presetId": "0603",
   "bank": "GeneralUserGS",
-  "category": "Synth Pad",
-  "instrument": "Pad 4 (choir)",
+  "category": "Brass",
+  "instrument": "French Horn",
   "serie": 3,
   "channel": 3,
-  "number": 91,
+  "number": 61,
   "zones": [
     {
       "midi": 60,

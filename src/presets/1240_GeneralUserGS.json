@@ -2,11 +2,11 @@
   "id": "1240_GeneralUserGS",
   "presetId": "1240",
   "bank": "GeneralUserGS",
-  "category": "Synth Pad",
-  "instrument": "Pad 1 (new age)",
+  "category": "Sound Effects",
+  "instrument": "Telephone Ring",
   "serie": 0,
-  "channel": 3,
-  "number": 88,
+  "channel": 1,
+  "number": 125,
   "zones": [
     {
       "midi": 124,

@@ -2,11 +2,11 @@
   "id": "0421_GeneralUserGS",
   "presetId": "0421",
   "bank": "GeneralUserGS",
-  "category": "Bass",
-  "instrument": "Slap Bass 2",
+  "category": "Strings",
+  "instrument": "Cello",
   "serie": 1,
-  "channel": 2,
-  "number": 37,
+  "channel": 3,
+  "number": 43,
   "zones": [
     {
       "midi": 42,

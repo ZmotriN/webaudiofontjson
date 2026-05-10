@@ -2,11 +2,11 @@
   "id": "1260_JCLive",
   "presetId": "1260",
   "bank": "JCLive",
-  "category": "Ethnic",
-  "instrument": "Kalimba",
+  "category": "Sound Effects",
+  "instrument": "Applause",
   "serie": 0,
-  "channel": 4,
-  "number": 108,
+  "channel": 1,
+  "number": 127,
   "zones": [
     {
       "midi": 126,

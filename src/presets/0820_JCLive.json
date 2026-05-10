@@ -2,11 +2,11 @@
   "id": "0820_JCLive",
   "presetId": "0820",
   "bank": "JCLive",
-  "category": "Ensemble",
-  "instrument": "Choir Aahs",
+  "category": "Synth Lead",
+  "instrument": "Lead 3 (calliope)",
   "serie": 0,
-  "channel": 3,
-  "number": 52,
+  "channel": 4,
+  "number": 83,
   "zones": [
     {
       "midi": 82,

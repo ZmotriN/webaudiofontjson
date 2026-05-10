@@ -2,11 +2,11 @@
   "id": "0489_GeneralUserGS",
   "presetId": "0489",
   "bank": "GeneralUserGS",
-  "category": "Ethnic",
-  "instrument": "Banjo",
+  "category": "Ensemble",
+  "instrument": "String Ensemble 1",
   "serie": 9,
-  "channel": 4,
-  "number": 105,
+  "channel": 3,
+  "number": 49,
   "zones": [
     {
       "midi": 48,

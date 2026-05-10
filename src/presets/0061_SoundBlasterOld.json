@@ -2,11 +2,11 @@
   "id": "0061_SoundBlasterOld",
   "presetId": "0061",
   "bank": "SoundBlasterOld",
-  "category": "Brass",
-  "instrument": "Brass Section",
+  "category": "Piano",
+  "instrument": "Harpsichord",
   "serie": 1,
-  "channel": 3,
-  "number": 61,
+  "channel": 1,
+  "number": 7,
   "zones": [
     {
       "midi": 6,

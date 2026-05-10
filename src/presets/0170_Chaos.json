@@ -2,11 +2,11 @@
   "id": "0170_Chaos",
   "presetId": "0170",
   "bank": "Chaos",
-  "category": "Strings",
-  "instrument": "Cello",
+  "category": "Organ",
+  "instrument": "Percussive Organ",
   "serie": 0,
-  "channel": 3,
-  "number": 42,
+  "channel": 1,
+  "number": 18,
   "zones": [
     {
       "midi": 17,

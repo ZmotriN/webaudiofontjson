@@ -6,7 +6,7 @@
   "instrument": "Acoustic Grand Piano",
   "serie": 0,
   "channel": 1,
-  "number": 0,
+  "number": 1,
   "zones": [
     {
       "midi": 0,

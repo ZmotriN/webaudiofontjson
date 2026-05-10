@@ -2,11 +2,11 @@
   "id": "0750_JCLive",
   "presetId": "0750",
   "bank": "JCLive",
-  "category": "Ethnic",
-  "instrument": "Fiddle",
+  "category": "Pipe",
+  "instrument": "Pan Flute",
   "serie": 0,
-  "channel": 4,
-  "number": 110,
+  "channel": 1,
+  "number": 76,
   "zones": [
     {
       "midi": 75,

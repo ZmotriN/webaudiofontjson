@@ -2,11 +2,11 @@
   "id": "0550_SBLive",
   "presetId": "0550",
   "bank": "SBLive",
-  "category": "Bass",
-  "instrument": "Synth Bass 1",
+  "category": "Ensemble",
+  "instrument": "Orchestra Hit",
   "serie": 0,
-  "channel": 2,
-  "number": 38,
+  "channel": 3,
+  "number": 56,
   "zones": [
     {
       "midi": 55,

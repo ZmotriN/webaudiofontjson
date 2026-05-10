@@ -2,11 +2,11 @@
   "id": "0900_Chaos",
   "presetId": "0900",
   "bank": "Chaos",
-  "category": "Piano",
-  "instrument": "Electric Piano 1",
+  "category": "Synth Pad",
+  "instrument": "Pad 3 (polysynth)",
   "serie": 0,
-  "channel": 1,
-  "number": 4,
+  "channel": 3,
+  "number": 91,
   "zones": [
     {
       "midi": 90,

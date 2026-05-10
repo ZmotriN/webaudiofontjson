@@ -2,11 +2,11 @@
   "id": "0302_JCLive",
   "presetId": "0302",
   "bank": "JCLive",
-  "category": "Strings",
-  "instrument": "Orchestral Harp",
+  "category": "Guitar",
+  "instrument": "Distortion Guitar",
   "serie": 2,
-  "channel": 3,
-  "number": 46,
+  "channel": 4,
+  "number": 31,
   "zones": [
     {
       "midi": 30,

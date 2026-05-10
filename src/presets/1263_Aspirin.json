@@ -2,11 +2,11 @@
   "id": "1263_Aspirin",
   "presetId": "1263",
   "bank": "Aspirin",
-  "category": "Ethnic",
-  "instrument": "Shanai",
+  "category": "Sound Effects",
+  "instrument": "Applause",
   "serie": 3,
-  "channel": 4,
-  "number": 111,
+  "channel": 1,
+  "number": 127,
   "zones": [
     {
       "midi": 126,

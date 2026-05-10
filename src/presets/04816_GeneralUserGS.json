@@ -2,11 +2,11 @@
   "id": "04816_GeneralUserGS",
   "presetId": "04816",
   "bank": "GeneralUserGS",
-  "category": "Synth Lead",
-  "instrument": "Lead 1 (square)",
-  "serie": 1,
-  "channel": 4,
-  "number": 80,
+  "category": "Ensemble",
+  "instrument": "String Ensemble 1",
+  "serie": 16,
+  "channel": 3,
+  "number": 49,
   "zones": [
     {
       "midi": 48,

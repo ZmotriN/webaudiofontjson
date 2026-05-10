@@ -2,11 +2,11 @@
   "id": "1041_FluidR3",
   "presetId": "1041",
   "bank": "FluidR3",
-  "category": "Organ",
-  "instrument": "Percussive Organ",
+  "category": "Ethnic",
+  "instrument": "Sitar",
   "serie": 1,
-  "channel": 1,
-  "number": 17,
+  "channel": 4,
+  "number": 105,
   "zones": [
     {
       "midi": 104,

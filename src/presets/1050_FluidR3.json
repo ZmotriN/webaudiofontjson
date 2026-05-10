@@ -2,11 +2,11 @@
   "id": "1050_FluidR3",
   "presetId": "1050",
   "bank": "FluidR3",
-  "category": "Guitar",
-  "instrument": "Electric Guitar (jazz)",
+  "category": "Ethnic",
+  "instrument": "Banjo",
   "serie": 0,
   "channel": 4,
-  "number": 26,
+  "number": 106,
   "zones": [
     {
       "midi": 105,

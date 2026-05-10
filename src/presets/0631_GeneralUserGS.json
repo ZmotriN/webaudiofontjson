@@ -2,11 +2,11 @@
   "id": "0631_GeneralUserGS",
   "presetId": "0631",
   "bank": "GeneralUserGS",
-  "category": "Percussive",
-  "instrument": "Reverse Cymbal",
+  "category": "Brass",
+  "instrument": "Synth Brass 2",
   "serie": 1,
-  "channel": 2,
-  "number": 119,
+  "channel": 3,
+  "number": 64,
   "zones": [
     {
       "midi": 63,

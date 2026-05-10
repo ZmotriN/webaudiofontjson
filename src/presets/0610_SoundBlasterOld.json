@@ -2,11 +2,11 @@
   "id": "0610_SoundBlasterOld",
   "presetId": "0610",
   "bank": "SoundBlasterOld",
-  "category": "Synth Effects",
-  "instrument": "FX 3 (crystal)",
+  "category": "Brass",
+  "instrument": "Brass Section",
   "serie": 0,
   "channel": 3,
-  "number": 98,
+  "number": 62,
   "zones": [
     {
       "midi": 61,

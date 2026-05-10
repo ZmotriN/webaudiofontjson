@@ -2,11 +2,11 @@
   "id": "1251_GeneralUserGS",
   "presetId": "1251",
   "bank": "GeneralUserGS",
-  "category": "Synth Effects",
-  "instrument": "FX 4 (atmosphere)",
+  "category": "Sound Effects",
+  "instrument": "Helicopter",
   "serie": 1,
-  "channel": 3,
-  "number": 99,
+  "channel": 1,
+  "number": 126,
   "zones": [
     {
       "midi": 125,

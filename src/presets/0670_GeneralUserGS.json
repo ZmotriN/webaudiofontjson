@@ -2,11 +2,11 @@
   "id": "0670_GeneralUserGS",
   "presetId": "0670",
   "bank": "GeneralUserGS",
-  "category": "Guitar",
-  "instrument": "Distortion Guitar",
+  "category": "Reed",
+  "instrument": "Baritone Sax",
   "serie": 0,
-  "channel": 4,
-  "number": 30,
+  "channel": 1,
+  "number": 68,
   "zones": [
     {
       "midi": 67,

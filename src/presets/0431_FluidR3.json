@@ -3,10 +3,10 @@
   "presetId": "0431",
   "bank": "FluidR3",
   "category": "Strings",
-  "instrument": "Timpani",
+  "instrument": "Contrabass",
   "serie": 1,
   "channel": 3,
-  "number": 47,
+  "number": 44,
   "zones": [
     {
       "midi": 43,

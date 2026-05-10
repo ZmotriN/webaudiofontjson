@@ -2,11 +2,11 @@
   "id": "0090_JCLive",
   "presetId": "0090",
   "bank": "JCLive",
-  "category": "Synth Pad",
-  "instrument": "Pad 3 (polysynth)",
+  "category": "Chromatic Percussion",
+  "instrument": "Glockenspiel",
   "serie": 0,
-  "channel": 3,
-  "number": 90,
+  "channel": 1,
+  "number": 10,
   "zones": [
     {
       "midi": 9,

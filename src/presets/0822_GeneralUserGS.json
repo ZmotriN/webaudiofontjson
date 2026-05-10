@@ -2,11 +2,11 @@
   "id": "0822_GeneralUserGS",
   "presetId": "0822",
   "bank": "GeneralUserGS",
-  "category": "Ensemble",
-  "instrument": "Synth Voice",
+  "category": "Synth Lead",
+  "instrument": "Lead 3 (calliope)",
   "serie": 2,
-  "channel": 3,
-  "number": 54,
+  "channel": 4,
+  "number": 83,
   "zones": [
     {
       "midi": 82,

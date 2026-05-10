@@ -2,11 +2,11 @@
   "id": "0921_SoundBlasterOld",
   "presetId": "0921",
   "bank": "SoundBlasterOld",
-  "category": "Guitar",
-  "instrument": "Acoustic Guitar (steel)",
+  "category": "Synth Pad",
+  "instrument": "Pad 5 (bowed glass)",
   "serie": 1,
-  "channel": 4,
-  "number": 25,
+  "channel": 3,
+  "number": 93,
   "zones": [
     {
       "midi": 92,

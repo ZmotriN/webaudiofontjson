@@ -2,11 +2,11 @@
   "id": "0161_SoundBlasterOld",
   "presetId": "0161",
   "bank": "SoundBlasterOld",
-  "category": "Bass",
-  "instrument": "Electric Bass (finger)",
+  "category": "Organ",
+  "instrument": "Drawbar Organ",
   "serie": 1,
-  "channel": 2,
-  "number": 33,
+  "channel": 1,
+  "number": 17,
   "zones": [
     {
       "midi": 16,

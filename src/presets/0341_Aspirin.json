@@ -2,11 +2,11 @@
   "id": "0341_Aspirin",
   "presetId": "0341",
   "bank": "Aspirin",
-  "category": "Synth Lead",
-  "instrument": "Lead 6 (voice)",
+  "category": "Bass",
+  "instrument": "Electric Bass (picked)",
   "serie": 1,
-  "channel": 4,
-  "number": 85,
+  "channel": 2,
+  "number": 35,
   "zones": [
     {
       "midi": 34,

@@ -3,10 +3,10 @@
   "presetId": "0283",
   "bank": "GeneralUserGS",
   "category": "Guitar",
-  "instrument": "Electric Guitar (clean)",
+  "instrument": "Electric Guitar (muted)",
   "serie": 3,
   "channel": 4,
-  "number": 27,
+  "number": 29,
   "zones": [
     {
       "midi": 28,

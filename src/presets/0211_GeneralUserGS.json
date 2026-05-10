@@ -2,11 +2,11 @@
   "id": "0211_GeneralUserGS",
   "presetId": "0211",
   "bank": "GeneralUserGS",
-  "category": "Synth Lead",
-  "instrument": "Lead 4 (chiff)",
+  "category": "Organ",
+  "instrument": "Accordion",
   "serie": 1,
-  "channel": 4,
-  "number": 83,
+  "channel": 1,
+  "number": 22,
   "zones": [
     {
       "midi": 21,

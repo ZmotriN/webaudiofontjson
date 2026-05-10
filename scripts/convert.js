@@ -1,7 +1,7 @@
 import fs from 'fs/promises';
 import path from 'path';
 
-const SRC_PATH = path.join(process.cwd(), '../webaudiofontdata/sound/');
+const SRC_PATH = path.join(process.cwd(), './webaudiofontdata/sound/');
 const DST_PATH = path.join(process.cwd(), './src/presets/');
 
 
@@ -38,9 +38,8 @@ const DRUM_MAP = {
 };
 
 
-function getDefaultChannel(midiNumber, isDrum) {
+function getDefaultChannel(p, isDrum) {
     if (isDrum) return 10;
-    const p = midiNumber + 1;
     if ((p >= 1 && p <= 24) || (p >= 65 && p <= 80)) return 1;
     if ((p >= 33 && p <= 40) || (p >= 113 && p <= 120)) return 2;
     if ((p >= 41 && p <= 64) || (p >= 89 && p <= 104)) return 3;
@@ -64,23 +63,32 @@ async function processJsFiles() {
 
             if (!match) continue;
 
-            const presetIdStr = match[1]; 
+            const presetIdFull = match[1]; // Ex: "04810" ou "12881_21"
             const bankName = match[2];
-            let instrumentName, category, midiNumber, isDrum;
-            let serie = 0;
+            let instrumentName, category, midiNumber, isDrum, serie;
 
-            if (presetIdStr.startsWith('128')) {
+            if (presetIdFull.startsWith('128')) {
+                // Cas des Drums (ex: 12881_21)
                 isDrum = true;
                 category = "Drums";
-                const drumNote = parseInt(presetIdStr.substring(3, 5));
-                serie = presetIdStr.split('_')[1] || 0;
+                const parts = presetIdFull.split('_');
+                const drumNote = parseInt(parts[0].substring(3, 5));
+                serie = parts[1] || 0;
                 instrumentName = DRUM_MAP[drumNote] || `Percussion (Note ${drumNote})`;
                 midiNumber = 0; 
             } else {
+                // Cas mélodique (ex: 04810 -> MIDI 48, Série 10)
                 isDrum = false;
-                midiNumber = parseInt(presetIdStr.split('_')[0]) % 128;
-                [instrumentName, category] = GM_MAP[midiNumber] || ["Unknown", "Unknown"];
-                serie = presetIdStr.substring(3, 4);
+                
+                // On extrait les 3 premiers chiffres pour le MIDI (048 -> 48)
+                const midiStr = presetIdFull.substring(0, 3);
+                midiNumber = parseInt(midiStr) + 1;
+
+                // La série est ce qui reste entre l'index 3 et la fin (ou avant le prochain underscore)
+                const serieStr = presetIdFull.split('_')[0].substring(3);
+                serie = serieStr || 0;
+
+                [instrumentName, category] = GM_MAP[midiNumber - 1] || ["Unknown", "Unknown"];
             }
 
             const defaultChannel = getDefaultChannel(midiNumber, isDrum);
@@ -88,22 +96,23 @@ async function processJsFiles() {
             const firstBrace = rawContent.indexOf('{');
             const lastBrace = rawContent.lastIndexOf('}');
             if (firstBrace === -1 || lastBrace === -1) continue;
-			const objectString = rawContent.substring(firstBrace, lastBrace + 1);
+            
+            const objectString = rawContent.substring(firstBrace, lastBrace + 1);
             let audioData;
-			
+            
             try {
                 audioData = new Function(`return ${objectString}`)();
             } catch (e) { continue; }
 
             const finalData = {
                 id: technicalId,
-                presetId: presetIdStr,
+                presetId: presetIdFull,
                 bank: bankName,
                 category: category,
                 instrument: instrumentName,
-                serie: +serie,
+                serie: parseInt(serie), // Conversion propre en nombre
                 channel: defaultChannel,
-				number: midiNumber,
+                number: midiNumber,
                 zones: audioData.zones,
             };
 
@@ -112,7 +121,8 @@ async function processJsFiles() {
                 JSON.stringify(finalData, null, 2)
             );
 
-            console.log(`✅ [${category}] ${instrumentName} (${bankName}) exported.`);
+            // console.log(`✅ [${category}] ${instrumentName} (Série: ${serie}) exported.`);
+            console.log(`✅ [${category}] ${instrumentName} (${bankName} #${serie}) exported.`);
         }
         console.log("--- Finished ! ---");
     } catch (error) {

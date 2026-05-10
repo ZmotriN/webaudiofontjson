@@ -2,11 +2,11 @@
   "id": "0821_GeneralUserGS",
   "presetId": "0821",
   "bank": "GeneralUserGS",
-  "category": "Ensemble",
-  "instrument": "Voice Oohs",
+  "category": "Synth Lead",
+  "instrument": "Lead 3 (calliope)",
   "serie": 1,
-  "channel": 3,
-  "number": 53,
+  "channel": 4,
+  "number": 83,
   "zones": [
     {
       "midi": 82,

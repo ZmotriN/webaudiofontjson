@@ -2,11 +2,11 @@
   "id": "1071_FluidR3",
   "presetId": "1071",
   "bank": "FluidR3",
-  "category": "Strings",
-  "instrument": "Timpani",
+  "category": "Ethnic",
+  "instrument": "Koto",
   "serie": 1,
-  "channel": 3,
-  "number": 47,
+  "channel": 4,
+  "number": 108,
   "zones": [
     {
       "midi": 107,
