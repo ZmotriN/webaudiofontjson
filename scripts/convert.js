@@ -1,13 +1,10 @@
 import fs from 'fs/promises';
 import path from 'path';
 
-// --- CONFIGURATION DES CHEMINS ---
 const SRC_PATH = path.join(process.cwd(), '../webaudiofontdata/sound/');
 const DST_PATH = path.join(process.cwd(), './src/presets/');
 
-// --- DICTIONNAIRES DE RÉFÉRENCE MIDI ---
 
-// Mapping General MIDI 1 : ID (0-127) -> [Nom, Catégorie]
 const GM_MAP = {
     0: ["Acoustic Grand Piano", "Piano"], 1: ["Bright Acoustic Piano", "Piano"], 2: ["Electric Grand Piano", "Piano"], 3: ["Honky-tonk Piano", "Piano"], 4: ["Electric Piano 1", "Piano"], 5: ["Electric Piano 2", "Piano"], 6: ["Harpsichord", "Piano"], 7: ["Clavinet", "Piano"],
     8: ["Celesta", "Chromatic Percussion"], 9: ["Glockenspiel", "Chromatic Percussion"], 10: ["Music Box", "Chromatic Percussion"], 11: ["Vibraphone", "Chromatic Percussion"], 12: ["Marimba", "Chromatic Percussion"], 13: ["Xylophone", "Chromatic Percussion"], 14: ["Tubular Bells", "Chromatic Percussion"], 15: ["Dulcimer", "Chromatic Percussion"],
@@ -27,7 +24,6 @@ const GM_MAP = {
     120: ["Guitar Fret Noise", "Sound Effects"], 121: ["Breath Noise", "Sound Effects"], 122: ["Seashore", "Sound Effects"], 123: ["Bird Tweet", "Sound Effects"], 124: ["Telephone Ring", "Sound Effects"], 125: ["Helicopter", "Sound Effects"], 126: ["Applause", "Sound Effects"], 127: ["Gunshot", "Sound Effects"]
 };
 
-// Mapping Percussions GM (Note MIDI 35-81)
 const DRUM_MAP = {
     35: "Acoustic Bass Drum", 36: "Bass Drum 1", 37: "Side Stick", 38: "Acoustic Snare", 39: "Hand Clap",
     40: "Electric Snare", 41: "Low Floor Tom", 42: "Closed Hi Hat", 43: "High Floor Tom", 44: "Pedal Hi-Hat",
@@ -41,87 +37,86 @@ const DRUM_MAP = {
     80: "Mute Triangle", 81: "Open Triangle"
 };
 
+
+function getDefaultChannel(midiNumber, isDrum) {
+    if (isDrum) return 10;
+    const p = midiNumber + 1;
+    if ((p >= 1 && p <= 24) || (p >= 65 && p <= 80)) return 1;
+    if ((p >= 33 && p <= 40) || (p >= 113 && p <= 120)) return 2;
+    if ((p >= 41 && p <= 64) || (p >= 89 && p <= 104)) return 3;
+    if ((p >= 25 && p <= 32) || (p >= 81 && p <= 88) || (p >= 105 && p <= 112)) return 4;
+    return 1;
+}
+
 async function processJsFiles() {
     try {
         await fs.mkdir(DST_PATH, { recursive: true });
         const files = await fs.readdir(SRC_PATH);
         const jsFiles = files.filter(file => path.extname(file) === '.js');
 
-        console.log(`🚀 Début du traitement de ${jsFiles.length} fichiers...`);
+        console.log(`🚀 Traitement de ${jsFiles.length} fichiers...`);
 
         for (const file of jsFiles) {
             const filePath = path.join(SRC_PATH, file);
             const fileNameWithExt = path.parse(file).name;
-            
-            // 1. Extraction de l'ID technique (sans le suffixe _sf2_file)
-            const technicalId = fileNameWithExt.replace('_sf2_file', '');
-
-            // 2. Découpage pour séparer le bloc presetId et le nom de la banque
+            const technicalId = fileNameWithExt.replace(/_file/i, '').replace(/_sf2/i, '').replace(/_gm/i, '');
             const match = technicalId.match(/^([0-9_]+)_(.*)$/);
-            if (!match) {
-                console.warn(`⚠️ Format ignoré : ${technicalId}`);
-                continue;
-            }
+
+            if (!match) continue;
 
             const presetIdStr = match[1]; 
             const bankName = match[2];
-            
-            let instrumentName, category;
+            let instrumentName, category, midiNumber, isDrum;
+            let serie = 0;
 
-            // 3. Logique de mapping selon le type (Drums vs Melodic)
             if (presetIdStr.startsWith('128')) {
-                // Pour les drums (ex: 12881), on prend les chiffres après 128
+                isDrum = true;
                 category = "Drums";
                 const drumNote = parseInt(presetIdStr.substring(3, 5));
+                serie = presetIdStr.split('_')[1] || 0;
                 instrumentName = DRUM_MAP[drumNote] || `Percussion (Note ${drumNote})`;
+                midiNumber = 0; 
             } else {
-                // Pour mélodique (ex: 0000 ou 12881_25), on prend le premier segment numérique
-                const midiNumber = parseInt(presetIdStr.split('_')[0]) % 128;
-                [instrumentName, category] = GM_MAP[midiNumber] || ["Unknown Instrument", "Unknown"];
+                isDrum = false;
+                midiNumber = parseInt(presetIdStr.split('_')[0]) % 128;
+                [instrumentName, category] = GM_MAP[midiNumber] || ["Unknown", "Unknown"];
+                serie = presetIdStr.substring(3, 4);
             }
 
-            // 4. Lecture et extraction de l'objet JS
+            const defaultChannel = getDefaultChannel(midiNumber, isDrum);
             const rawContent = await fs.readFile(filePath, 'utf-8');
             const firstBrace = rawContent.indexOf('{');
             const lastBrace = rawContent.lastIndexOf('}');
-
-            if (firstBrace === -1 || lastBrace === -1) {
-                console.error(`❌ Erreur de structure dans ${file}`);
-                continue;
-            }
-
-            const objectString = rawContent.substring(firstBrace, lastBrace + 1);
-            
-            // Utilisation de Function pour évaluer l'objet sans require/import
+            if (firstBrace === -1 || lastBrace === -1) continue;
+			const objectString = rawContent.substring(firstBrace, lastBrace + 1);
             let audioData;
+			
             try {
                 audioData = new Function(`return ${objectString}`)();
-            } catch (e) {
-                console.error(`❌ Erreur de parsing dans ${file}: ${e.message}`);
-                continue;
-            }
+            } catch (e) { continue; }
 
-            // 5. Construction de l'objet final
             const finalData = {
                 id: technicalId,
                 presetId: presetIdStr,
                 bank: bankName,
-                instrument: instrumentName,
                 category: category,
-                data: audioData
+                instrument: instrumentName,
+                serie: +serie,
+                channel: defaultChannel,
+				number: midiNumber,
+                zones: audioData.zones,
             };
 
-            // 6. Écriture du fichier JSON
-            const destinationFile = path.join(DST_PATH, `${technicalId}.json`);
-            await fs.writeFile(destinationFile, JSON.stringify(finalData, null, 2));
+            await fs.writeFile(
+                path.join(DST_PATH, `${technicalId}.json`), 
+                JSON.stringify(finalData, null, 2)
+            );
 
             console.log(`✅ [${category}] ${instrumentName} (${bankName}) exported.`);
         }
-
-        console.log("--- Terminé ! ---");
-
+        console.log("--- Finished ! ---");
     } catch (error) {
-        console.error(`Fatal Error: ${error.message}`);
+        console.error(`❌ Error: ${error.message}`);
     }
 }
 
