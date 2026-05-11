@@ -17,9 +17,7 @@ A high-performance, modular library for managing WebAudioFont data in JSON forma
 ```bash
 git clone https://github.com/ZmotriN/webaudiofontjson.git
 cd webaudiofontjson
-npm install
-npm build
-npm export
+npm run build
 ```
 
 ## Technical Implementation
