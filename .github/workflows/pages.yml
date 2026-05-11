@@ -22,21 +22,17 @@ jobs:
           node-version: "24"
           cache: 'npm'
 
-      - name: Install dependencies
-        run: npm install
-
       - name: Build and Export
         run: |
           npm run checkout
           npm run convert
           npm run drums
           npm run catalog
-          npm run export
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:
-          path: ./dist
+          path: ./src
 
       - name: Deploy to GitHub Pages
         id: deployment
