@@ -77,7 +77,7 @@ async function generateCatalog() {
         const categories = Object.values(categoriesMap).map(cat => ({
             name: cat.name,
             channel: cat.channel,
-            instruments: cat.instruments //Object.values(cat.instruments).sort((a, b) => a.name.localeCompare(b.name))
+            instruments: Object.values(cat.instruments) //Object.values(cat.instruments).sort((a, b) => a.name.localeCompare(b.name))
         }));//.sort((a, b) => a.name.localeCompare(b.name));
 
         const mapdata = await fs.readFile(GM_MAP_FILE, 'utf-8');
