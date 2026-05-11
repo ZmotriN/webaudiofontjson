@@ -19,9 +19,9 @@ async function downloadJsClean() {
 
         fs.writeFileSync(path.join(TARGET_DIR, '.git/info/sparse-checkout'), 'sound/*.js');
 
-        execSync('git pull --depth 1 origin master', { cwd: TARGET_DIR, stdio: 'inherit' });
+        execSync('git pull --depth 1 origin main', { cwd: TARGET_DIR, stdio: 'inherit' });
 
-        console.log('🧹 Nettoyage des traces Git...');
+        console.log('🧹 Cleanup git stuff...');
         const gitDir = path.join(TARGET_DIR, '.git');
         
         fs.rmSync(gitDir, { recursive: true, force: true });
