@@ -108,7 +108,7 @@ async function processJsFiles() {
                 instrument: instrumentName,
                 serie: parseInt(serie),
                 channel: defaultChannel,
-                number: midiNumber,
+                num: midiNumber,
                 zones: audioData.zones,
             };
 

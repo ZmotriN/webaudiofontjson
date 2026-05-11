@@ -29,7 +29,7 @@ async function generateCatalog() {
             banksMap[data.bank].presets.push({
                 id: data.id,
                 serie: data.serie,
-				number: data.number || -1,
+				num: data.num || -1,
             });
 
             const catName = data.category.toLowerCase();
@@ -51,7 +51,7 @@ async function generateCatalog() {
                 id: data.id,
                 bank: data.bank,
                 serie: data.serie,
-				number: data.number || -1,
+				num: data.num || -1,
             });
         }
 
