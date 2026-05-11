@@ -32,7 +32,7 @@ async function generateCatalog() {
             const data = JSON.parse(content);
             
             const programNumber = data.num || -1;
-            const isDrum = data.category.toLowerCase().includes('drum') || data.category.toLowerCase().includes('percussion');
+            const isDrum = data.category.toLowerCase().includes('drum');
 
             // Gestion des banques
             if (!banksMap[data.bank]) {
