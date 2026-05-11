@@ -90,7 +90,7 @@ async function generateCatalog() {
             categories
         };
 
-        await fs.writeFile(OUTPUT_FILE, JSON.stringify(catalog, null, 2));
+        await fs.writeFile(OUTPUT_FILE, JSON.stringify(catalog));
 
         console.log(`✅ Structured catalog generated with correct MIDI channels!`);
 
