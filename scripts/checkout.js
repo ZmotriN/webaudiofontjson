@@ -13,7 +13,9 @@ async function downloadJsClean() {
 
         console.log('🚀 Downloading .js files...');
 
-        execSync('git init', { cwd: TARGET_DIR });
+        // execSync('git init', { cwd: TARGET_DIR });
+        execSync('git config --global init.defaultBranch master');
+        execSync('git init -b master', { cwd: TARGET_DIR });
         execSync(`git remote add origin ${REPO_URL}`, { cwd: TARGET_DIR });
         execSync('git config core.sparseCheckout true', { cwd: TARGET_DIR });
 

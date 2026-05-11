@@ -5,35 +5,49 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="icon" type="image/png" href="https://zmotrin.github.io/midi-audio-player/images/favicon.png">
 	<link rel="stylesheet" href="https://zmotrin.github.io/midi-audio-player/styles/styles.css">
-	<!-- <script src="./scripts/highlight.min.js"></script>
-	<script src="./scripts/marked.umd.js"></script> -->
-	<title>MidiAudioPlayer | JavaScript MIDI audio player</title>
+	<link rel="stylesheet" href="./styles/hopscotch.min.css">
+	<script src="./scripts/highlight.min.js"></script>
+	<title>WebAudioFontJSON | JSON Audio Presets Library</title>
 </head>
 <body>
 	<header>
-		<h1>MidiAudioPlayer</h1>
+		<h1>WebAudioFontJSON</h1>
 	</header>
 	<main>
 		<section>
-			<h2>MidiAudioPlayer</h2>
-			<p>A lightweight JavaScript MIDI audio player built on top of the Web Audio API using WebAudioFont. This package enables playback of MIDI files directly in the browser with minimal setup and no heavy dependencies.</p>
+			<h2>WebAudioFontJSON</h2>
+			<p>A high-performance, modular library for managing WebAudioFont data in JSON format, specifically optimized for browser-based MIDI synthesis.</p>
 		</section>
 
 		<section>
-			<h2>Features</h2>
+			<h2>Core Features</h2>
 			<ul>
-				<li>MIDI file playback in modern browsers</li>
-				<li>Built on the Web Audio API</li>
-				<li>Uses WebAudioFont for preset rendering</li>
-				<li>Lightweight and dependency-minimal</li>
-				<li>Simple programmatic API</li>
-				<li>CLI tool for preset/font handling</li>
+				<li><b>Sparse-Checkout Integration</b>: Automated scripts selectively retrieve sound data while maintaining a minimal repository footprint.</li>
+				<li><b>Modern ES2022 Architecture</b>: Developed using asynchronous programming patterns and modular JavaScript standards.</li>
+				<li><b>Automated CI/CD</b>: Integrated GitHub Actions for automated distribution builds and deployment pipelines.</li>
+				<li><b>Optimized Web Audio</b>: Engineered for precise gain node management and low-latency audio processing.</li>
 			</ul>
 		</section>
 
 		<section>
+			<h2>Installation</h2>
+			<pre><code class="language-bash">
+				git clone https://github.com/ZmotriN/webaudiofontjson.git
+				cd webaudiofontjson
+				npm install
+				npm build
+				npm export
+			</code></pre>
+		</section>
+
+		<section>
+			<h2>Technical Implementation</h2>
+			<p>The project leverages a custom Node.js workflow to synchronize with the <a noopener noreferrer target="_blank" href="https://github.com/surikov/webaudiofontdata">webaudiofontdat</a> repository by <a noopener noreferrer target="_blank" href="https://github.com/surikov">Surikov</a>. By utilizing sparse-checkout configurations, it extracts only the required `.js` instrument definitions, which are then processed for use in web-based audio engines and game frameworks.</p>
+		</section>
+
+		<section>
 			<h2>License</h2>
-			<p><a noreferrer noopener target="_blank" href="https://github.com/ZmotriN/midi-audio-player/blob/main/LICENSE">MIT LICENSE</a></p>
+			<p><a noreferrer noopener target="_blank" href="https://github.com/ZmotriN/webaudiofontjson/blob/main/LICENSE">MIT LICENSE</a></p>
 		</section>
 
 		<section>
@@ -46,15 +60,17 @@
 			<p><a noreferrer noopener target="_blank"  href="https://github.com/ZmotriN/webaudiofontjson">https://github.com/ZmotriN/webaudiofontjson</a></p>
 		</section>
 
+		<hr>
+
+		<section>
+			<h2>Catalog</h2>
+		</section>
 	
 	<script type="module">
-		// (async () => {
-		// 	document.querySelectorAll('code').forEach(elm => elm.textContent = elm.textContent.trim().split("\n").map(row => row.replace(/^\t+/gm, "")).join("\n"));
-		// 	hljs.highlightAll();
-		// 	const response = await fetch('https://raw.githubusercontent.com/ZmotriN/midi-audio-player/refs/heads/main/CHANGELOG.md');
-		// 	const changelog = await marked.parse(await response.text());
-		// 	document.getElementById('changelog').innerHTML = changelog;
-		// })();
+		(async () => {
+			document.querySelectorAll('code').forEach(elm => elm.textContent = elm.textContent.trim().split("\n").map(row => row.replace(/^\t+/gm, "")).join("\n"));
+			hljs.highlightAll();
+		})();
 	</script>
 </body>
 </html>

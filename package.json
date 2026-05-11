@@ -35,9 +35,10 @@
     "convert": "node ./scripts/convert.js",
     "drums": "node ./scripts/drums.js",
     "catalog": "node ./scripts/catalog.js",
-    "export": "node ./scripts/export.js"
+    "export": "node ./scripts/export.js",
+    "build": "npm run checkout && npm run convert && npm run drums && npm run catalog"
   },
-  "dependencies": {
+  "devDependencies": {
     "chokibasic": "^1.2.2"
   }
 }
