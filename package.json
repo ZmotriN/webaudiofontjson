@@ -1,0 +1,43 @@
+{
+  "name": "webaudiofontjson",
+  "version": "1.0.0",
+  "description": "JSON WebAudioFont Collection",
+  "keywords": [
+    "webaudiofont",
+    "audio",
+    "music",
+    "player",
+    "music-player",
+    "midi",
+    "drums",
+    "sounds",
+    "instrument",
+    "instruments",
+    "synth",
+    "synthesizer",
+    "wavetable",
+    "audiocontext",
+    "midi-player"
+  ],
+  "homepage": "https://github.com/ZmotriN/webaudiofontjson#readme",
+  "bugs": {
+    "url": "https://github.com/ZmotriN/webaudiofontjson/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZmotriN/webaudiofontjson.git"
+  },
+  "license": "MIT",
+  "author": "Maxime Larrivée-Roy",
+  "type": "module",
+  "scripts": {
+    "checkout": "node ./scripts/checkout.js",
+    "convert": "node ./scripts/convert.js",
+    "drums": "node ./scripts/drums.js",
+    "catalog": "node ./scripts/catalog.js",
+    "export": "node ./scripts/export.js"
+  },
+  "dependencies": {
+    "chokibasic": "^1.2.2"
+  }
+}

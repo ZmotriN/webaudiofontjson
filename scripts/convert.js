@@ -63,12 +63,11 @@ async function processJsFiles() {
 
             if (!match) continue;
 
-            const presetIdFull = match[1]; // Ex: "04810" ou "12881_21"
+            const presetIdFull = match[1];
             const bankName = match[2];
             let instrumentName, category, midiNumber, isDrum, serie;
 
             if (presetIdFull.startsWith('128')) {
-                // Cas des Drums (ex: 12881_21)
                 isDrum = true;
                 category = "Drums";
                 const parts = presetIdFull.split('_');
@@ -77,14 +76,11 @@ async function processJsFiles() {
                 instrumentName = DRUM_MAP[drumNote] || `Percussion (Note ${drumNote})`;
                 midiNumber = 0; 
             } else {
-                // Cas mélodique (ex: 04810 -> MIDI 48, Série 10)
                 isDrum = false;
                 
-                // On extrait les 3 premiers chiffres pour le MIDI (048 -> 48)
                 const midiStr = presetIdFull.substring(0, 3);
                 midiNumber = parseInt(midiStr) + 1;
 
-                // La série est ce qui reste entre l'index 3 et la fin (ou avant le prochain underscore)
                 const serieStr = presetIdFull.split('_')[0].substring(3);
                 serie = serieStr || 0;
 
@@ -110,7 +106,7 @@ async function processJsFiles() {
                 bank: bankName,
                 category: category,
                 instrument: instrumentName,
-                serie: parseInt(serie), // Conversion propre en nombre
+                serie: parseInt(serie),
                 channel: defaultChannel,
                 number: midiNumber,
                 zones: audioData.zones,
@@ -118,10 +114,9 @@ async function processJsFiles() {
 
             await fs.writeFile(
                 path.join(DST_PATH, `${technicalId}.json`), 
-                JSON.stringify(finalData, null, 2)
+                JSON.stringify(finalData)
             );
 
-            // console.log(`✅ [${category}] ${instrumentName} (Série: ${serie}) exported.`);
             console.log(`✅ [${category}] ${instrumentName} (${bankName} #${serie}) exported.`);
         }
         console.log("--- Finished ! ---");

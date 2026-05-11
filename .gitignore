@@ -1,3 +1,7 @@
+/node_modules/
+/package-lock.json
 /dist/
 /sounds/
 /webaudiofontdata/
+/src/presets/
+/src/catalog.json

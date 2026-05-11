@@ -1,59 +1,25 @@
-import fs from 'node:fs';
 import path from 'node:path';
-import zlib from 'node:zlib';
-import { pipeline } from 'node:stream/promises';
-import { Readable } from 'node:stream';
+import { fileURLToPath } from 'node:url';
+import { exportDist } from "chokibasic";
 
-const SRC_DIR = './src/presets';
-const DST_DIR = './dist/presets';
+// Configuration du __dirname pour ESM
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
-async function processJsonFiles() {
+const DIR = process.cwd();
+const SRC = path.join(DIR, 'src');
+const DIST = path.join(DIR, 'dist');
+const BANNER = path.join(__dirname, 'banner.txt');
+
+(async () => {
     try {
-        if (!fs.existsSync(DST_DIR)) {
-            fs.mkdirSync(DST_DIR, { recursive: true });
-        }
-
-        const files = fs.readdirSync(SRC_DIR);
-        const jsonFiles = files.filter(file => path.extname(file).toLowerCase() === '.json');
-
-        console.log(`Fichiers trouvés : ${jsonFiles.length}`);
-
-        for (const file of jsonFiles) {
-            const srcPath = path.join(SRC_DIR, file);
-            const dstPath = path.join(DST_DIR, `${file}.gz`);
-
-            try {
-                // Lecture synchrone pour garantir la récupération du contenu
-                const rawData = fs.readFileSync(srcPath, 'utf8');
-                
-                // Minification : On parse et on re-stringify immédiatement
-                const minifiedData = JSON.stringify(JSON.parse(rawData));
-
-                // Création d'un Readable stream à partir de la chaîne de caractères
-                const sourceStream = Readable.from([minifiedData]);
-                
-                const gzip = zlib.createGzip();
-                const destinationStream = fs.createWriteStream(dstPath);
-
-                await pipeline(
-                    sourceStream,
-                    gzip,
-                    destinationStream
-                );
-
-                // Optionnel: log tous les 100 fichiers pour ne pas inonder la console
-                // if (jsonFiles.indexOf(file) % 100 === 0) console.log(`Avancement...`);
-				console.log(`✅ [GZIP] ${file}.gz exported.`);
-
-            } catch (fileErr) {
-                console.error(`❌ Erreur sur le fichier ${file}:`, fileErr.message);
-            }
-        }
-
-        console.log('\n✅ Opération terminée avec succès.');
-    } catch (err) {
-        console.error('Erreur fatale :', err.message);
+        const stats = await exportDist(SRC, DIST, BANNER, { ignore: ["scripts/**/*.json", "scripts/**/*.yaml"] });
+        console.log(`✅ Export finished.`);
+        console.log(`   Files copied : ${stats.copied}`);
+        console.log(`   Files ignored : ${stats.skipped}`);
+        process.exit(0);
+    } catch(err) {
+        console.error('❌ Build failed:', err);
+        process.exit(1);
     }
-}
-
-processJsonFiles();
+})();

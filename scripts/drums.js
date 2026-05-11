@@ -1,25 +1,21 @@
 import fs from 'fs/promises';
 import path from 'path';
 
-// --- CONFIGURATION ---
 const PRESETS_PATH = path.join(process.cwd(), './src/presets/');
 const OUTPUT_PATH = path.join(process.cwd(), './src/presets/');
 
-/**
- * Tente de supprimer un fichier avec plusieurs essais en cas de verrouillage
- */
+
 async function unlinkWithRetry(filePath, retries = 5, delay = 500) {
     for (let i = 0; i < retries; i++) {
         try {
             await fs.unlink(filePath);
-            return; // Succès
+            return;
         } catch (error) {
-            // Code d'erreur Windows habituel pour un fichier verrouillé : EBUSY ou EPERM
-            if (i === retries - 1) throw error; // Dernier essai échoué
+            if (i === retries - 1) throw error;
             
-            console.warn(`⚠️ Fichier bloqué, nouvel essai dans ${delay}ms... (${i + 1}/${retries})`);
+            console.warn(`⚠️ File blocked, new try in ${delay}ms... (${i + 1}/${retries})`);
             await new Promise(resolve => setTimeout(resolve, delay));
-            delay *= 2; // Augmentation exponentielle du délai
+            delay *= 2;
         }
     }
 }
@@ -33,7 +29,7 @@ async function mergeDrums() {
 
         const drumKits = {};
 
-        console.log(`🔍 Analyse de ${drumFiles.length} fichiers de percussions...`);
+        console.log(`🔍 Analyzing ${drumFiles.length} drum files...`);
 
         for (const file of drumFiles) {
             const content = await fs.readFile(path.join(PRESETS_PATH, file), 'utf-8');
@@ -68,26 +64,25 @@ async function mergeDrums() {
             const fileName = `${key}.json`;
             await fs.writeFile(
                 path.join(OUTPUT_PATH, fileName),
-                JSON.stringify(finalKit, null, 2)
+                JSON.stringify(finalKit)
             );
-            console.log(`✅ Kit fusionné : ${fileName} (${finalKit.zones.length} zones)`);
+            console.log(`✅ Drum Kit merged: ${fileName} (${finalKit.zones.length} zones)`);
         }
 
-        // 2. Nettoyage avec gestion de verrouillage
-        console.log(`\n🧹 Nettoyage des fichiers sources dans ${PRESETS_PATH}...`);
+        console.log(`\n🧹 File cleaning: ${PRESETS_PATH}...`);
         for (const file of drumFiles) {
             const filePath = path.join(PRESETS_PATH, file);
             try {
                 await unlinkWithRetry(filePath);
             } catch (err) {
-                console.error(`❌ Impossible de supprimer ${file} après plusieurs tentatives : ${err.message}`);
+                console.error(`❌ Can't delete ${file} after multiple try: ${err.message}`);
             }
         }
 
-        console.log(`\n✨ Terminé ! ${keys.length} kits générés.`);
+        console.log(`\n✨ Finished! ${keys.length} drum kits generated.`);
 
     } catch (error) {
-        console.error(`❌ Erreur : ${error.message}`);
+        console.error(`❌ Error: ${error.message}`);
     }
 }
 
