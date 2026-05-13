@@ -60,6 +60,7 @@ async function generateCatalog() {
             if (!categoriesMap[catName].instruments[data.instrument]) {
                 categoriesMap[catName].instruments[data.instrument] = {
                     name: data.instrument,
+                    program: programNumber,
                     presets: []
                 };
             }
@@ -68,7 +69,7 @@ async function generateCatalog() {
                 id: data.id,
                 bank: data.bank,
                 serie: data.serie,
-                num: programNumber,
+                // program: programNumber,
             });
         }
 
