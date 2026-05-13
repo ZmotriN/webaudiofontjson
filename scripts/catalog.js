@@ -31,7 +31,7 @@ async function generateCatalog() {
             const content = await fs.readFile(path.join(PRESETS_PATH, file), 'utf-8');
             const data = JSON.parse(content);
             
-            const programNumber = data.num || -1;
+            const programNumber = data.program || -1;
             const isDrum = data.category.toLowerCase().includes('drum');
 
             // Gestion des banques
@@ -69,7 +69,7 @@ async function generateCatalog() {
                 id: data.id,
                 bank: data.bank,
                 serie: data.serie,
-                // program: programNumber,
+                program: programNumber,
             });
         }
 
