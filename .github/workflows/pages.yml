@@ -24,11 +24,7 @@ jobs:
 
       - name: Build
         run: |
-          npm run checkout
-          npm run convert
-          npm run drums
-          npm run catalog
-
+          npm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:

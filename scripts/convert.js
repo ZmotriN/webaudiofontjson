@@ -4,6 +4,10 @@ import path from 'path';
 const SRC_PATH = path.join(process.cwd(), './webaudiofontdata/sound/');
 const DST_PATH = path.join(process.cwd(), './src/presets/');
 
+const EXCLUDES = [
+    "0110_JCLive",
+];
+
 
 const GM_MAP = {
     0: ["Acoustic Grand Piano", "Piano"], 1: ["Bright Acoustic Piano", "Piano"], 2: ["Electric Grand Piano", "Piano"], 3: ["Honky-tonk Piano", "Piano"], 4: ["Electric Piano 1", "Piano"], 5: ["Electric Piano 2", "Piano"], 6: ["Harpsichord", "Piano"], 7: ["Clavinet", "Piano"],
@@ -111,13 +115,17 @@ async function processJsFiles() {
                 program: midiNumber,
                 zones: audioData.zones,
             };
+            if(!EXCLUDES.includes(technicalId)) {
+                await fs.writeFile(
+                    path.join(DST_PATH, `${technicalId}.json`), 
+                    JSON.stringify(finalData)
+                );
+                console.log(`✅ [${category}] ${instrumentName} (${bankName} #${serie}) exported.`);
+            } else {
+                console.log(`❌ [${category}] ${instrumentName} (${bankName} #${serie}) excluded.`);
+            }
 
-            await fs.writeFile(
-                path.join(DST_PATH, `${technicalId}.json`), 
-                JSON.stringify(finalData)
-            );
-
-            console.log(`✅ [${category}] ${instrumentName} (${bankName} #${serie}) exported.`);
+            
         }
         console.log("--- Finished ! ---");
     } catch (error) {
