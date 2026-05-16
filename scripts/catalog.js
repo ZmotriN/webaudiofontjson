@@ -68,9 +68,10 @@ async function generateCatalog() {
             categoriesMap[catName].instruments[data.instrument].presets.push({
                 id: data.id,
                 bank: data.bank,
+                category: data.category,
                 instrument: data.instrument,
-                serie: data.serie,
                 program: programNumber,
+                serie: data.serie,
             });
         }
 
