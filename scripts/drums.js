@@ -47,7 +47,7 @@ async function mergeDrums() {
                     instrument: `${data.bank} Drum Kit`,
                     serie: data.serie,
                     channel: 10,
-                    num: -1,
+                    program: -1,
                     zones: []
                 };
             }
